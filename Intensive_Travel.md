@@ -25,8 +25,7 @@ Those things are what i prepare to travel mainly. Thank you for listening.
 
 ### Think of a memorable trip you took when you were younger. Where did you go and who did you go with? What did you do or see during that trip?
 
-I can remember the trip to Jeju Island with my whole family a couple of years ago. I went there with wife and daughter also with my parents and brother's family. I stayed at the very special resort for two days. It's very expensive resort, so i couldn't go there if I did't get benefits from a company. I guess it's over $1000 for one day.
+I can remember the trip to Jeju Island with my whole family a couple of years ago. I went there with my wife and daughter and also with my parents and brother's family. I stayed at the very special resort for two days. It's very expensive resort, so I couldn't go there if I did't get benefits from a company. I guess it's over $1000 for one day.
 
-There was a private building with 2 stories. After I got into the building, all things in the house were luxurious. We bought fresh seafood from local market and cooked and enjoy the dinner with wine and beer. We'd talked much during night. I think it is the most luxuirous trip in my life with whole family together.
-
+There was a private building with 2 stories. After I got into the building, all things in the house were luxurious. We bought fresh seafood from local market and cooked and enjoyed the dinner with wine and beer. We had talked much during night and then we can know better each other. I think it is an one of the the most luxuirous trips in my life family together.
 
