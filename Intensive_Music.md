@@ -1,4 +1,4 @@
-1. You indicated in the survey that you like listening to music. Can you tell me what kind of music you like? And who is your favorite musician?Why do you like him or her?
+### You indicated in the survey that you like listening to music. Can you tell me what kind of music you like? And who is your favorite musician?Why do you like him or her?
 
 I like to listen to various kinds of music. Depends on my feelings/mood, I listen to different genre of music. 
 These days I like to listen to ballad music because I've heard that my favorite singer having a concert. That music like ballad or R&B make me feel touched and relaxed. Also it always blows my mind.
@@ -9,8 +9,7 @@ His voice and tones is so touching and catchy. After I listened a song in his 4t
 
 Overall, that's my taste in music and favorie singer. Thank you.
 
-
-2. How did you first get interested in music? What kind of music did you listen to when you were young? How was that music different from the music you listen to today? How has your interest in music changed over the years?
+### How did you first get interested in music? What kind of music did you listen to when you were young? How was that music different from the music you listen to today? How has your interest in music changed over the years?
 
 When I was in high school, i tried to learn rap. In those days, the student went to singing room with friends for playing. I was not good at singing and I wanted to be standout in the singing room, so i tried to find something else. At that time,  Rapper called 김진표 was famous. I decided to memorize all the lyrics of his song in his album. After then, I was interested in rap music.
 
@@ -18,7 +17,7 @@ Several years ago, I had a chance to see a musical in my first time. It was sooo
 
 So, This is about changes of my music taste.
 
-3. Tell me about a time when you went to listen to some live music. Perhaps it was at a concert or live café. What was the mood like?How did you like the music you listen to there? 
+### Tell me about a time when you went to listen to some live music. Perhaps it was at a concert or live café. What was the mood like?How did you like the music you listen to there? 
 
 There are many parks in 성남 city where i live. There is a big concert hall in the cetral park. the city held a concert of Old Korea Pop several years ago.
 
