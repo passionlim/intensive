@@ -15,7 +15,7 @@
 ### Park
 * MindMap : [View](https://www.draw.io/?lightbox=1&p=trees#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpassionlim%2Fintensive%2Fmaster%2FIntensive_Park.html) [Edit](https://www.draw.io/?p=trees#Hpassionlim%2Fintensive%2Fmaster%2FIntensive_Park.html)
 
-* Script : View(Intensive_Park.md)
+* Script : [View](Intensive_Park.md)
 
 ## 2nd week
 
@@ -25,9 +25,13 @@
 * Script : [View](Intensive_Travel.md)
 
 ### Vacation at home
-* MindMap : [View]() [Edit]()
-* Script : [View]()
+* MindMap : [View](https://www.draw.io/?lightbox=1&p=trees#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpassionlim%2Fintensive%2Fmaster%2FIntensive_VacationAtHome.html) [Edit](https://www.draw.io/?p=trees#Hpassionlim%2Fintensive%2Fmaster%2FIntensive_VacationAtHome.html)
+* Script : [View](Intensive_VacationAtHome.md)
 
-### Movie/Performance/Concert
-* MindMap : [View]() [Edit]()
-* Script : [View]()
+### Movie
+* MindMap : [View](https://www.draw.io/?lightbox=1&p=trees#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpassionlim%2Fintensive%2Fmaster%2FIntensive_Movie.html) [Edit](https://www.draw.io/?p=trees#Hpassionlim%2Fintensive%2Fmaster%2FIntensive_Movie.html)
+* Script : [Movie View](Intensive_Movie.md)
+
+### Performance/Concert
+* MindMap : [View](https://www.draw.io/?lightbox=1&p=trees#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpassionlim%2Fintensive%2Fmaster%2FIntensive_Concert.html) [Edit](https://www.draw.io/?p=trees#Hpassionlim%2Fintensive%2Fmaster%2FIntensive_Concert.html)
+* Script : [Movie View](Intensive_Concert.md)
