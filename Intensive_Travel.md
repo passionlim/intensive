@@ -1,6 +1,4 @@
-Intensive_Travel
-
-1. You indicated in the survey that you take vacations domestically. Tell me some places you like to travel. Why do you like to go there?
+### You indicated in the survey that you take vacations domestically. Tell me some places you like to travel. Why do you like to go there?
 
 My favorite place in Korea is Jeju Island which is localed in the soutern part of the Korean Peninsula. Many Korean people want to visit Jeju Island because the climate is mild and warm even in the winter seaons. 
 
@@ -13,7 +11,7 @@ Also you can travel with less money as there are my options.
 And it is good place for travelers in the terms of cost. When you want to rent a car, there are so many rent car companies near Jeju Internaltional airport. The rent price is quite cheap, maybe it's not over $20 a day with full coverage insurance for sedan for 4 person. So you can go easily wherever you want to go with low cost. I rent for 5 days the last trip, but I paid only $100s.
 
 
-2. Let’s say you are preparing to take a trip somewhere. Tell me about all the things that you usually do to get ready.
+### Let’s say you are preparing to take a trip somewhere. Tell me about all the things that you usually do to get ready.
 
 Well. I'm a person who like to scehdule for everything.
 
@@ -25,7 +23,7 @@ Final thing to do is to list up the activities that I or my people want to do wi
 
 Those things are what i prepare to travel mainly. Thank you for listening.
 
-3. Think of a memorable trip you took when you were younger. Where did you go and who did you go with? What did you do or see during that trip?
+### Think of a memorable trip you took when you were younger. Where did you go and who did you go with? What did you do or see during that trip?
 
 I can remember the trip to Jeju Island with my whole family a couple of years ago. I went there with wife and daughter also with my parents and brother's family. I stayed at the very special resort for two days. It's very expensive resort, so i couldn't go there if I did't get benefits from a company. I guess it's over $1000 for one day.
 
