@@ -8,7 +8,7 @@
 
 * MindMap : [View](https://www.draw.io/?lightbox=1&p=trees#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpassionlim%2Fintensive%2Fmaster%2FIntensive_Housing.html) [Edit](https://www.draw.io/?p=trees#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpassionlim%2Fintensive%2Fmaster%2FIntensive_Housing.html)
 
-*  Script : [View](https://github.com/passionlim/intensive/blob/master/Intensive_Housing.md)
+*  Script : [View](Intensive_Housing.md)
 
 ### Park
 
