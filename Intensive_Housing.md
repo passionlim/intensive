@@ -1,4 +1,4 @@
-1. Now, let’s talk about where you live. Can you describe your house? Tell me what it looks like and how many rooms and bathrooms there are.Which is your favorite room at home? Give me a detailed description of your house.+공원 2개 비교
+### Now, let’s talk about where you live. Can you describe your house? Tell me what it looks like and how many rooms and bathrooms there are.Which is your favorite room at home? Give me a detailed description of your house.+공원 2개 비교
 
 I have been living in the apartment since 2015. There were 20 stories in the apartment and I'm living on the 16th floor. The apartment have 3 bedrooms and 2 toilets. 
 
@@ -10,7 +10,7 @@ And then, You will find a kitchen next to the living room. There are a one big s
 
 That's all what I can say.
 
-2. What has changed in your house compared to the past? Tell me about the house or apartment you lived in when you were a child. How was it different from the one you live in now?
+### What has changed in your house compared to the past? Tell me about the house or apartment you lived in when you were a child. How was it different from the one you live in now?
 
 I'm afraid that I can't remember the place to live in a child. but I can describe the place where i started my marriage.
 7 years ago, I just got married, And I rent a small apartment which is in the Suju of Yongin. Yongin is a city located in the south of Seoul. We didn't have enough money to rent a good apartment, so we chose small and old one.
@@ -21,5 +21,5 @@ Meanwhile, the apartment where i'm living is newer. So parking lots are enough f
 
 Overall, I guess a lack of parking lots was a big difficulties for me in the past.
 
-3. Tell me about a change you made to your home. What was the change and why did you make that change? How did your home looklike afterwards. Give me all the details. 
+### Tell me about a change you made to your home. What was the change and why did you make that change? How did your home looklike afterwards. Give me all the details. 
 
