@@ -25,6 +25,10 @@
 
 ### Travel
 
+* MindMap : [View](https://www.draw.io/?lightbox=1&p=trees#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpassionlim%2Fintensive%2Fmaster%2FIntensive_Travel.html) [Edit](https://www.draw.io/?p=trees#Hpassionlim%2Fintensive%2Fmaster%2FIntensive_Travel.html)
+
+*  Script : [View](Intensive_Travel.md)
+
 ### Vacation at home
 
 ### Movie/Performance/Concert
