@@ -18,4 +18,6 @@ we packed some snacks and a couple of water bottles into backpack. We left home,
 
 ### Tell me about unusual or unexpected experience you had  during the vacation that you spent at home. What happened and why was it so memorable?
 
-The same answer above.
+There is no unexpected experience that I can recall so far. But I can talk about memorable event with a family.
+
+The same answer from 2nd sentence above answer.
