@@ -27,5 +27,7 @@ Those things are what I prepare to travel mainly. Thank you for listening.
 
 I can remember the trip to Jeju Island with my whole family a couple of years ago. I went there with my wife and daughter and also with my parents and brother's family. I stayed at the very special resort for two days. It's very expensive resort, so I couldn't go there if I did't get benefits from a company. I guess it's over $1000 for one day.
 
-There was a private building with 2 stories. After I got into the building, all things in the house were luxurious. We bought fresh seafood from local market and cooked and enjoyed the dinner with wine and beer. We had talked much during night and then we can know better each other. I think it is an one of the the most luxuirous trips in my life family together.
+There was a private building with 2 stories. After I got into the building, all things in the house were luxurious. We bought fresh seafood from local market and cooked and enjoyed the dinner with wine and beer. We had talked much during night and then we can know better each other. I think it is an one of the the most luxuirous trips family together in my life.
+
+
 
