@@ -1,10 +1,10 @@
-### You indicated in the survey that you take vacations at home. When you stay  home during the vacation, what do you normally do? And who do you normally meet ?
+### You indicated in the survey that you take vacations at home. When you stay home during the vacation, what do you normally do? And who do you normally meet ?
 
-Well, I'm married with a little daughter. I spend most of time with her theses days. You know, moms are busy for working or caring for their children on the weekdays. So parenting usually is a male's duty during a vacation at home.
+Well, I'm married with a little daughter. I try to spend the most of time with her when I stay at home. You know, most working moms are tired for caring for their children on the weekdays. So parenting usually is a male's duty during a vacation at home.
 
-My daughter likes to ride a bike in the town thesedays, so I usually go outsie with her and watch her riding. Sometimes she fall down on the bike, and then I take care of the wound if she get hurt or just shake a dust off her cloths. 
+My daughter likes to ride a bike in the town these days, so I usually go outside with her and watch her to ride safe. Sometimes she fall down on the bike, and then I take care of the wound if she get hurt or just shake a dust off her clothes. 
 
-Actually, I like to stay in door rather than outside. I like to sped a time with smart phone without thoughts like a meditation. When my daughter has a focus on something like TV show or animation, I really do it. I sit on the cough in the living room, and take a foot massage with the machine that I bought few weeks ago. It's really relaxing without any concerns.
+Actually, I like to stay indoor rather than outside. I like to spend a time with smart phone without thoughts like taking a meditation. When my daughter do something else like watching TV shows or animations, I can really do it. I sit on the cough in the living room, and take a foot massage with the machine that I bought few weeks ago. It's really relaxing without any concerns.
 
 That's all about thing I do at home.
 
