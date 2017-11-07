@@ -1,12 +1,12 @@
 ### Now, let’s talk about where you live. Can you describe your house? Tell me what it looks like and how many rooms and bathrooms there are.Which is your favorite room at home? Give me a detailed description of your house.+공원 2개 비교
 
-I have been living in the apartment since 2015. There were 20 stories in the apartment and I'm living on the 16th floor. The apartment have 3 bedrooms and 2 toilets. 
+I'm living in the apartment in Seongnam. I have been living in the apartment since 2015. There are 20 stories in the apartment and I'm living on the 16th floor. The apartment have 3 bedrooms and 2 restroom. 
 
-When you get into the house, you can see the shoe shelf and small mirror on the right. I usually look in the mirror to check how I look everyday before leaving.
+The first time you come into the house, you can see the shoe shelf and small mirror on your right. I usually look in the mirror to check how I look everyday before leaving home.
 
-And then, you can see the living room in the middle of my house. I love to spend a time in the living room. There are a couch, a tea table for a rest. and I bought a foot massage machine for relaxing last holyday season. I take a massage after a work everyday sitting on the couch and also spend a time with cell phone. this is my usual happiness these days. 
+And then, you can see the living room in the middle of my house. I love to spend a time in the living room. There are a couch, a tea table for a rest. and I bought a foot massage machine for relaxing last holyday season. I take a massage after a work everyday sitting on the couch and also spending a time with cell phone. This is my usual happiness at home. 
 
-And then, You will find a kitchen next to the living room. There are a one big sink in the center. And gas stove and oven for cooking are on the right. And I place living electorics like air fryer, microwave and blender in the corner of the kitchen. There is a dining table between the kitchen and living room, and our family have meals together at the dining table. 
+Then you can find a kitchen next to the living room. There are a one big sink in the moddle of kitchen. There are stove and oven for cooking on the right. On the other side, You can see typical living electorics like air fryer, microwave and blender . The major stuff in the kitchen is a dining table between the kitchen and living room. Our family have meals together on the weekends.
 
 That's all what I can say.
 
