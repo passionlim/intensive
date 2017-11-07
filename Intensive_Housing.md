@@ -1,6 +1,6 @@
 ### Now, let’s talk about where you live. Can you describe your house? Tell me what it looks like and how many rooms and bathrooms there are.Which is your favorite room at home? Give me a detailed description of your house.+공원 2개 비교
 
-I'm living in the apartment in Seongnam. I have been living in this apartment since 2015. It has 20 stories and I'm living on the 16th floor. The apartment have 3 bedrooms and 2 restrooms. 
+I'm living in the apartment in Seongnam. I have been living in this apartment since 2015. It is 20 stories high and I'm living on the 16th floor. The apartment have 3 bedrooms and 2 restrooms. 
 
 The first time you come into the house, you can see the shoe shelf and small mirror on your right. I usually look in the mirror everyday to check how I look before leaving home.
 
