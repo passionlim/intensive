@@ -4,7 +4,7 @@ I'm living in the apartment in Seongnam. I have been living in this apartment si
 
 The first time you come into the house, you can see the shoe shelf and small mirror on your right. I usually look in the mirror everyday to check how I look before leaving home.
 
-And then, you can see the living room in the middle of my house. I love to spend a time in the living room. There are a couch, a tea table and TV for a rest. I recently bought a foot massage machine last holyday season. When I got off and return home, I take a massage sitting on the couch and also spending a time with cell phone. This is my favorite happiness at home. 
+And then, you can see the living room in the middle of my house. I love to spend a time in the living room. There are a couch, a tea table and TV for a rest. I recently bought a foot massage machine last holyday season. When I get off work and return home, I take a massage sitting on the couch and also spending a time with cell phone. This is my favorite happiness at home. 
 
 Then you can find a kitchen next to the living room. There are a one big sink in the moddle of kitchen. There are stove and oven for cooking on the right. On the other side, You can see typical living electorics like air fryer, microwave and blender . The major stuff in the kitchen is a dining table between the kitchen and the living room. Our family have meals together on the weekends.
 
