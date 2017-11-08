@@ -41,4 +41,4 @@
 ###1st day
 ###2nd day
 ###3rd day
-* HW : [Homework View](3rd_homework.md)
+* HW : [Homework View](Camp_3rd.md)
