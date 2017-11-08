@@ -1,6 +1,6 @@
 # intensive
 
-## 1st week
+## 1st week for pre-camp
 
 ### Music
 * MindMap : [View](https://www.draw.io/?lightbox=1&p=trees#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpassionlim%2Fintensive%2Fmaster%2FIntensive_Music.html) [Edit](https://www.draw.io/?p=trees#Hpassionlim%2Fintensive%2Fmaster%2FIntensive_Music.html)
@@ -17,7 +17,7 @@
 
 * Script : [View](Intensive_Park.md)
 
-## 2nd week
+## 2nd week for pre-camp
 
 ### Travel
 * MindMap : [View](https://www.draw.io/?lightbox=1&p=trees#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpassionlim%2Fintensive%2Fmaster%2FIntensive_Travel.html) [Edit](https://www.draw.io/?p=trees#Hpassionlim%2Fintensive%2Fmaster%2FIntensive_Travel.html)
@@ -32,6 +32,13 @@
 * MindMap : [View](https://www.draw.io/?lightbox=1&p=trees#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpassionlim%2Fintensive%2Fmaster%2FIntensive_Movie.html) [Edit](https://www.draw.io/?p=trees#Hpassionlim%2Fintensive%2Fmaster%2FIntensive_Movie.html)
 * Script : [View](Intensive_Movie.md)
 
-## 3rd week
+## 3rd week for pre-camp
 
 ### Trip
+
+## 1st week for camp
+
+###1st day
+###2nd day
+###3rd day
+* HW : [Homework View](3rd_homework.md)
