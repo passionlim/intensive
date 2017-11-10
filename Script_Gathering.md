@@ -1,5 +1,15 @@
 # [Topic] Gathering
 
+
+## Introduce Holidays in your country. 
+- which holiday is the biggest? 
+- What do people do on that day?
+- Are there any special foods for that day?
+
+## Introduce specific holiday
+- How do you celebrate the holiday? 
+- What activity does your family do on that day?
+
 ## Compare the past gathering culture to modern gathering culture. What has changed?
 
 Eva, you seem interested in our holiday. I’ll give you a description about the changes of our holidays. Let me give you some details. Please focus on my explanation.
