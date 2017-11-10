@@ -14,6 +14,10 @@
 
 ## You indicated that you are responsible for doing household chores. Tell me about the lastest household chore that you have done recently. Describe memorable experience of doing household chores.
 
+- making up a story related to household chores ( something wacky or something just really plai and simple is fine )
+- Recently
+- Lately
+
 I’m living with my wife. we haven’t decide yet who takes which responsibility. 
 
 During last weekend, I was playing computer games, and watching videos in the living room after lunch. But my wife suddenly yelled out. At that time I had not realized what made her so angry. My wife was upset because I did’t support her with house chores. I know she was trying to do all house chores such as  washing dishes, doing laundry and folding clothes by herself. However, how could I know her demands in her mind without saying?
