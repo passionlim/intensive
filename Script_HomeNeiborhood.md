@@ -10,3 +10,15 @@ Secondly, there are also side effects by high density of population. There are s
 
 On one hand, some conveniences come with people’s demands. On the other hand, there are side effects along with the density of population. Therefore we have to consider how we can handle these side effects effectively.
   
+## Discuss the problems of the real estate market in your country
+
+Recently Korea face a real estate bubble issue these days. As a result, it would cause dangerous effect on Korea economy in a long term perspective.
+
+Since a recent couple of years, people can easily get a loan from a bank with very low rate compared to the past. Especially a loan to buy real estate such as apartment has been welcomed to a bank because of lower risk for a loan. Because of a flood of money into real estate market, the price in certain area in Seoul has increased dramatically over 20%. 
+
+In addition, people are gambling with a small portion of money to purchase real estate. This gambling can light up a bomb of real estate bubble explosion. If the interest rate starts to go up steadly, people who are not affordable to pay their interest would start to sell their houses. If people starts to sell too a lot, the real estate market would start to collapse.
+
+Therefore, to prevent from destruction of real estate market, The Government have to focus on the situations on the market considerably, and also control the amount of cash in the real estate market.
+
+
+
