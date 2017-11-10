@@ -1,5 +1,17 @@
 # [Topic] House Responsibility
 
+
+## What are the various responsibilities in your home? Identify who is resposible for what takes.House responsibilities
+
+- which house responsibility is the most annoying / tedious / cumbersome.
+
+## As a child, what responsibilities did you have while you were at home? Do you recall a specific instance as a child when you were asked to do a task and you did not do it? If so, what were you supposed to do? What exactly happened? Why couldn't you complete it?
+
+- What was the task
+- Past tense
+- Present Perfection
+
+
 ## You indicated that you are responsible for doing household chores. Tell me about the lastest household chore that you have done recently. Describe memorable experience of doing household chores.
 
 I’m living with my wife. we haven’t decide yet who takes which responsibility. 
