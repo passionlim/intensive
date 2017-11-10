@@ -38,12 +38,23 @@
 
 ## 1st week for camp
 
+* HW : [Homework View](Camp_3rd.md)
+
 ### [Topic] IT / Technology
+* Script : [View](Intensive_Technology.md)
 
 ### [Topic] Recycling
+* Script : [View](Intensive_Recycling.md)
 
 ### [Topic] Pub/Bar
+* Script : [View](Intensive_Pub.md)
 
+### [Topic] Home / Neighborhood
+* Script : [View](Intensive_Neighborhood.md)
 
-* HW : [Homework View](Camp_3rd.md)
-* 
+### [Topic] House Responsibility
+* Script : [View](Intensive_HouseResponsibility.md)
+
+### [Topic] Gathering
+* Script : [View](Intensive_Gathering.md)
+
