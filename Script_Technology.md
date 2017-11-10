@@ -1,1 +1,30 @@
+# [Topic] IT / Technology
 
+## Tell us about the electronics devices you use every day?
+
+I like to use a various kind of electronic devices at home and at the office. Especially the smartphones are the most helpful devices for me. Let me just give you details.
+
+The mobile phone I used in 1990s was just to make a call wirelessly. It was convenient at that time. However since smartphones came out, its functions have become diverse as time goes on ( = along with a time ). We can take high quality pictures every day with smartphones. It’s not necessary to carry a heavy digital camera for high quality pictures. Also We can watch online videos on Youtube when we have free time. 
+
+Plus I can communicate effectively with colleagues at work by just sending a message or a file. We don’t need to meet together or describe specific issues on the phone nowadays.
+
+Therefore, I can’t imagine I would live without smartphones.
+
+## Tell me about some issues people talk about related to technology. Why is it a problem? How do people deal with this problem.
+
+People are stuck with cell phones for a whole day. When they walk, when they watch TV, when they lay on the bed, they always spend a time with their cellphones. However, this addiction to cellphones has become social issues.
+( a social concern )
+
+First of all, the addiction to the cellphone cause unexpected accidents. Nowadays it’s not easy to find people who are watching phone while they’re walking on the street. It’s very dangerous that it makes people get hurt by cars or bicycles. For this reason, the media has handled these issues several times.
+
+Second of all, offline relationship between people are getting worse because of the addiction. There are people at a restaurant who don’t have a chat with each other sitting at the same table. They just focus on what they’re doing  wherever they are. I’m sure that this cause disconnection between people especially even in a family. Thus some parents prevent their children from using smart phone too much.
+
+In conclusion, I think whole societies should focus on the addictions to decrease these problems.
+
+## What kinds of technology or equipment are used at your company? Tell me about it in detail. ( its functions, how it improves your work life )
+
+We all are connected to each other on the Internet. So you can send mesages or pictures you acquaintances very easily. 
+
+Before the Internet come out, it was not easy to send a message to someone who stayed remotely. You could just make a call on the phone. It means that you have to be right there at the phone. 
+
+But As the technology has been progressed, there are many changes to connect without a space
