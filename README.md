@@ -38,7 +38,12 @@
 
 ## 1st week for camp
 
-###1st day
-###2nd day
-###3rd day
+### [Topic] IT / Technology
+
+### [Topic] Recycling
+
+### [Topic] Pub/Bar
+
+
 * HW : [Homework View](Camp_3rd.md)
+* 
