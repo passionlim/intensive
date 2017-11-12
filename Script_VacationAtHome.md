@@ -1,23 +1,22 @@
 ### You indicated in the survey that you take vacations at home. When you stay home during the vacation, what do you normally do? And who do you normally meet ?
 
-Well, I'm married with a little daughter. I try to spend the most of time with her when I stay at home. You know, most working moms are tired for caring for their children on the weekdays. So parenting usually is a male's duty during a vacation at home.
+Well, I'm married with a little daughter. I try to spend the most of time with her when I stay at home. You know, most working moms are tired of caring for their children on weekdays. Parenting during vacation usually is men's duty. My daughter likes to ride a bicycle in my town these days, so I usually go outside with her and watch her to ride safe. Sometimes she falls down on the bicycle, but I just shake dust off on her clothes. 
 
-My daughter likes to ride a bike in the town these days, so I usually go outside with her and watch her to ride safe. Sometimes she fall down on the bike, and then I take care of the wound if she get hurt or just shake a dust off her clothes. 
-
-Actually, I like to stay indoor rather than outside. I like to spend a time with smart phone without thoughts like taking a meditation. When my daughter do something else like watching TV shows or animations, I can really do it. I sit on the cough in the living room, and take a foot massage with the machine that I bought few weeks ago. It's really relaxing without any concerns.
-
-That's all about thing I do at home.
+Actually, I like to stay indoor rather than outside. I like to spend a time with my smart phone siting on the couch in the livingroom. And also I bought a foot massage machine a few weeks ago. Taking a foot massage is my favorite activity at home. In my opinion, I'm pretty sure that staying relaxed during holiday is like putting fuel into your mental and body.
 
 ### What did you do on your first day to the last day of your last vacation? Tell me everything about the things you did on your last vacation at home.
 
-There was a long holyday this October this year. I had 9 days off. I had no specific plans to go anywhere. I just visited  the parents' house for 3 days. I spend most of days at home. 
+There was a long holyday this year. I had 9 days off. I had no specific plan to go anywhere. I just visited the parents' houses for 3 days. I stayed most of days at home. I watched a couple of movies during the holiday. The most memorable movie title was the Mission Impossible 5, starring Tom cruise. I had no time 
 
-My daughter is 6yrs. But staying at home for a whole day was not easy for her. So we decided to go outside. The one of favorite activities during a that day was bike-riding picnic with the entire family. she just learned how to ride a bike by herself. And she also wanted to ride further away. So we decided to go to the riverside park toghter. The park is 4km away from home. It was not quite far for me, but it was a challenging distance for my daughter.
-
-We packed some snacks and a couple of water bottles into our backpack, then we left home, then after 30 minutes we stopped by the fastfood restaurent for lunch. The taste was good. It might have been good because of excercise. After 30 minutes, finally we just arrived at the destination. We took a rest for a while by throwing stones into the river and making stone houses in the sand. and then we came back home. We were tired and slept endlessly at night.
+At second, we had a memorable bicycle trip with my daugher. It was the first bicycle trip family together. It was tough for my dauther. But she complete it without any complaint. My wife and I were so happy to see her grow up well.
 
 ### Tell me about unusual or unexpected experience you had  during the vacation that you spent at home. What happened and why was it so memorable?
 
-There is no unexpected experience that I can recall so far. But I can talk about memorable event with a family.
+There is no unexpected experience that I can recall so far. But I can talk bicyel trip with my family as a memorable event on last Korean Thankgiving holiday. I
 
-The same answer from 2nd sentence above answer.
+My daughter is 6yrs. But staying at home for a whole day was not easy for her. she was bored and really wanted to go outside. So we had to do something exiting. I noticed that she just had learned how to ride a bike recently. we decided to go on a bicycle trip all family together. The destiation was the riverside park 4 killometers away. It was not quite far for me, but it was a challenging distance for my daughter.
+
+We packed some snacks and a couple of water bottles into our backpack, then we left home, then after 30 minutes we stopped by the fastfood restaurent for lunch. The taste was good because of workout. After 30 minutes, finally we just arrived at the destination. We took a rest for a while by throwing stones into the river and making stone houses in the sand. and then we came back home. 
+
+After the trip, my wife and I were so proud of my daughter. The trip might be a tough experience for her, but she had never complaint to us. even she looked exited. We hope our daughter will overcome difficulties she would face in her future like this trip.
+
