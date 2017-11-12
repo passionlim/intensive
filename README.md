@@ -35,20 +35,20 @@
 ## 1st week for camp
 
 ### [Topic] IT / Technology
-* Script : [View](Intensive_Technology.md)
+* Script : [View](Script_Technology.md)
 
 ### [Topic] Recycling
-* Script : [View](Intensive_Recycling.md)
+* Script : [View](Script_Recycling.md)
 
 ### [Topic] Pub/Bar
-* Script : [View](Intensive_Pub.md)
+* Script : [View](Script_Pub.md)
 
 ### [Topic] Home / Neighborhood
-* Script : [View](Intensive_Neighborhood.md)
+* Script : [View](Script_Neighborhood.md)
 
 ### [Topic] House Responsibility
-* Script : [View](Intensive_HouseResponsibility.md)
+* Script : [View](Script_HouseResponsibility.md)
 
 ### [Topic] Gathering
-* Script : [View](Intensive_Gathering.md)
+* Script : [View](Script_Gathering.md)
 
