@@ -6,7 +6,7 @@ Actually, I like to stay indoors rather than outdoors. I like to spend time with
 
 ### What did you do on your first day to the last day of your last vacation? Tell me everything about the things you did on your last vacation at home.
 
-There was a long holyday this year. I had 9 days off. I had no specific plan to go anywhere. I just visited the parents' houses for 3 days. I stayed most of days at home. I watched a couple of movies during the holiday. The most memorable movie title was the Mission Impossible 5, starring Tom cruise. I had no time 
+There was a long holyday this year. I had 9 days off. I had no specific plan to go anywhere. I just visited the parents' houses for 3 days. I stayed most of days at home. I watched a couple of movies during the holiday. The most memorable movie title was the Mission Impossible 5, starring Tom cruise. My wife enjoyed the movie becasue we had no time on weekdays.
 
 At second, we had a memorable bicycle trip with my daugher. It was the first bicycle trip family together. It was tough for my dauther. But she complete it without any complaint. My wife and I were so happy to see her grow up well.
 
