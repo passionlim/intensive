@@ -18,5 +18,5 @@ My daughter is 6yrs. But staying at home for an entire day was not easy for her.
 
 We packed some snacks and a couple of water bottles into our backpack, then we left home. After 30 minutes we stopped by the fastfood restaurent for lunch. The taste was good because of workout. After 30 minutes, finally we just arrived at the destination. We took a rest for a while by throwing stones into the river and making stone houses in the sand. and then we came back home. 
 
-After the trip, my wife and I were so proud of our daughter. It's because the trip might be a tough experience for her, but she had never complaint to us. Even she looked exited. We hope our daughter will overcome difficulties she would face in her future like this trip.
+After the trip, my wife and I were so proud of our daughter. It's because the trip might be a tough experience for her, but she had never complaint to us. Even she looked exited. We hope our daughter will overcome difficulties in her future like this trip.
 
