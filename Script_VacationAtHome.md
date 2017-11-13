@@ -12,11 +12,11 @@ At second, we had a memorable bicycle trip with my daugher. It was the first bic
 
 ### Tell me about unusual or unexpected experience you had  during the vacation that you spent at home. What happened and why was it so memorable?
 
-There is no unexpected experience that I can recall so far. But I can talk bicyel trip with my family as a memorable event on last Korean Thankgiving holiday. I
+There is no unexpected experience that I can recall so far. But I can take a bicycle trip with my family as a memorable event on last Korean Thankgiving holiday. We had 9 days off during the holiday.
 
-My daughter is 6yrs. But staying at home for a whole day was not easy for her. she was bored and really wanted to go outside. So we had to do something exiting. I noticed that she just had learned how to ride a bike recently. we decided to go on a bicycle trip all family together. The destiation was the riverside park 4 killometers away. It was not quite far for me, but it was a challenging distance for my daughter.
+My daughter is 6yrs. But staying at home for a whole day was not easy for her. she was bored and really wanted to go outside. So we had to do something exiting. we decided to go on a bicycle trip all family together. The destiation was the riverside park 4 killometers away. It was not quite far for me, but it was a challenging distance for my daughter.
 
-We packed some snacks and a couple of water bottles into our backpack, then we left home, then after 30 minutes we stopped by the fastfood restaurent for lunch. The taste was good because of workout. After 30 minutes, finally we just arrived at the destination. We took a rest for a while by throwing stones into the river and making stone houses in the sand. and then we came back home. 
+We packed some snacks and a couple of water bottles into our backpack, then we left home. After 30 minutes we stopped by the fastfood restaurent for lunch. The taste was good because of workout. After 30 minutes, finally we just arrived at the destination. We took a rest for a while by throwing stones into the river and making stone houses in the sand. and then we came back home. 
 
 After the trip, my wife and I were so proud of my daughter. The trip might be a tough experience for her, but she had never complaint to us. even she looked exited. We hope our daughter will overcome difficulties she would face in her future like this trip.
 
