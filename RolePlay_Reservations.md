@@ -18,7 +18,7 @@ Google: Ok... Let's make it at 2pm. I've heard that there are a couple of seat t
 
 Jeniffer : We're offering VIP seats with closer views to the stage and also there are also regular seats on first and second floor.
 
-Google : Well, I'd like to take VIP seats for 2 persons. How much is it in total? and Can I pay for tickets with my credit card?
+Google : Well, I'd like to take VIP seats for 2 people. How much is it in total? and Can I pay for tickets with my credit card?
 
 Jeniffer : It's 200,000 won altogether. If you want to make a reservation. please let me know the credit card number and your phone number.
 
@@ -52,7 +52,7 @@ Google : I'd like to know what movies are currently showing this weekend?
 
 Jeniffer : Yeah, we have "Spider man" and "Get Out"
 
-Google : Lovely, I wanna to purchase tickets for 2 persons. which time slots are available in the afternoon this weekend?
+Google : Lovely, I wanna to purchase tickets for 2 people. which time slots are available in the afternoon this weekend?
 
 Jeniffer : 2pm, 6pm on Saturday
 
@@ -102,7 +102,7 @@ Google: I like to choose Delux for 4 nights. Is breakfast also included in the d
 
 Jeniffer: Yeah. We need credit card numbers and your name to reserve the room. Would you tell me your credit card number and your name?
 
-Google: My credit card number are XXXX-YYYY. My name is Google. Are we done?
+Google: My credit card numbers are XXXX-YYYY. My name is Google. Are we done?
 
 Jeniffer: Could you give a time to make sure? 
 
