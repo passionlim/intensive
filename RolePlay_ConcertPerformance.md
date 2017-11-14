@@ -2,11 +2,11 @@
 
 ## What kind of concerts or performances do you like to see?
 
-My favorite performance is musical. I’ve watched musicals a couple of times since 2008. As I watched my first musical “The man of la mancha.”, I have become a big fan of musicals. I was very impressed on live music and emotional acting in musicals. 
+musticals are my favorite performance. I’ve watched musicals a couple of times since 2008. After I watched my first musical “The man of la mancha.”, I have become a big fan of musicals. I was very impressed with live music and emotional performance in musicals. 
 
-Music in musicals is definitely sung and performed lively. Compared to the recording music in studios, live music enables people to feel more impressive on musicals because the actors and audiences listen and feel together at the same place. And also we can see actor’s faces while they’re acting. So we can feel their emotional atmosphere from their acting right there. 
+Live musics are more impressive among any kind of musics. Compared to the recording music in studios, live music enables people to feel more impressive with musicals because the actors and audiences are in harmony at the same place. And also we can see actor’s faces while they’re acting. So we can feel their emotional vibe from their acting right there. 
 
-Watching musicals is very fascinating and touching. If you have no experience on musicals, I strongly recommend you would do. As my first experience was so fantastic, so I frequently listen to the music of “Man of lamanch” to reminisce the memorable feelings of musicals.
+Watching musicals is very fascinating and touching. If you have no experience on musicals, I strongly recommend you try that. Because my first experience was so fantastic, so I frequently listen to the music of “Man of lamanch” to reminisce the memory of musicals.
 
 
 ## Most recent concert you’ve been to. Which concert was it? Where was it held? Who did you go with? Was there anything particularly memorable about it? Please describe it in detail.
