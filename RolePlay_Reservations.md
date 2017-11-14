@@ -86,6 +86,29 @@ Google: Wonderful. Thank you for your kindess.
 
 ## Hotel
 
+Google: Hello, is that ABC hotel? I'd like to reserve a room, but I have some questions beforehand.
+
+Jeniffer: Yen, What can I help for?
+
+Google: I have a plan to stay during next X-mas season. Are there any rooms available during that season? I'll stay for 5 days from December 1.
+
+Jeniffer: Yes, it is avaiable.
+
+Google: What types of rooms do you offer at that time and how much?
+
+Jeniffer: Delux and Suite are available. D is $100 a day, S is $500 a day?
+
+Google: I like to choose Delux for 5 nights. Is breakfast also included in the deal? We are a family of 4.
+
+Jeniffer: Yeah. We need credit card numbers and your name to reserve the room. Would you tell me your credit card number and your name?
+
+Google: My credit card number are XXXX-YYYY. My name is Google. Are we done?
+
+Jeniffer: Could you give a time to make sure? 
+
+Google: Thank you for your information and help.
+
+
 ----
 - Are there any rooms available for a reservation?
 - I'd like to reserve a room, but I have some questions beforehand.
