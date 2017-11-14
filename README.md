@@ -1,5 +1,19 @@
 # intensive
 
+## survey topics
+- listening to music
+- watching movie
+- performances
+- concert
+- park
+- home improvement
+- going to pubs/bars
+- demestic travel
+- oversea travel
+- vacation at home
+- coffee/cafe
+- no workout at all
+
 ## Topics
 
 ### Music
