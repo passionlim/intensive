@@ -37,7 +37,11 @@ Google :  Thanks for helping me out. Bye.
 
 - This is my first time to attend this concert, is there any space to park? 
 - is there enough space for parking?
-
+- I'll just go ahead and purchase tickets by phone.
+- Sorry, but I'd try to a next chance. I'll call back later.
+- I noticed that this concert was sponsored by the ABC. Can I get a discount with my ABC membership card?
+- I was wondering if I can get a discount if I use my ABC membership card.
+- I'll take my card to go there, is there parking lots available?
 ## Movies
 
 Google : I'm calling you to get information for the movies.
@@ -92,3 +96,4 @@ Google: Wonderful. Thank you for your kindess.
 - What time can I check-in?
 - What's the check-in time?
 - Do you offer hotel amenities such as a jacuzi, a wine bar, a swimming pool, a sauna, a gym?
+- Is breakfast included in the deal(package)?
