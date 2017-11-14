@@ -98,7 +98,7 @@ Google: What types of rooms do you offer at that time and how much?
 
 Jeniffer: Delux and Suite are available. D is $100 a day, S is $500 a day?
 
-Google: I like to choose Delux for 5 nights. Is breakfast also included in the deal? We are a family of 4.
+Google: I like to choose Delux for 4 nights. Is breakfast also included in the deal? We are a family of 4.
 
 Jeniffer: Yeah. We need credit card numbers and your name to reserve the room. Would you tell me your credit card number and your name?
 
