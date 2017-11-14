@@ -33,12 +33,52 @@ Jeniffer : Sure. You can park for 3 hours if you purchase tickets.
 Google :  Thanks for helping me out. Bye.
 
 ----
-- I tried to purchase tickets online, but your servers are down. I'd like to reserve tickets by phone, and pay them by my credit card. ( by my visa, by my mastercard )
+- I tried to purchase tickets online, but your servers are down. I'd like to reserve tickets by phone, and pay them with my credit card. ( by my visa, by my mastercard )
 
 - This is my first time to attend this concert, is there any space to park? 
 - is there enough space for parking?
 
 ## Movies
+
+Google : I'm calling you to get information for the movies.
+
+Jeniffer : Yeah, what can I help you?
+
+Google : I'd like to know what movies are currently showing this weekend?
+
+Jeniffer : Yeah, we have "Spider man" and "Get Out"
+
+Google : Lovely, I wanna to purchase tickets for 2 persons. which time slots are available in the afternoon this weekend?
+
+Jeniffer : 2pm, 6pm on Saturday
+
+Google: I'll make it at 2pm. It'll be around lunch time? Do you have an afilliated restaurants with the theater? 
+
+Jeniffer : Theare are retaurants downstairs that offer 10 percent off if you have movie tickets.
+
+Google: Wonderful. Thank you for your kindess.
+
+----
+
+
+
+- Before I purchase tickets, I have a few questions.
+- First, I'll be going there on an empty stomach. Do you offer any food combo deals with a purchaed ticket?
+- also, I'm a huge fan of horror movies.. are there any horror films currently showing?
+- What movies are showing now?
+- What movies are currently showing?
+- I'd like to get information about movie showtimes?
+- I'd like to purchase some tickets, but first, I have some questions.
+- I'm calling you to get additional information for the movies.
+- I was trying to reserve tickets online. Is it possible to reserver tickets by phone and pay for them with my master card?
+- Which moives do you recommend?
+- Are you showing any horror movies?
+- Are all seats the same price?
+- How much more expensive for VIP seats compared to regular seats?
+- Are there any affilated restaurants with your theater?
+- Are there any restaurants that offer discounts if I purchase tickets at your theater?
+- Which slot are left?
+
 
 ## Hotel
 
