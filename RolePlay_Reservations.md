@@ -12,23 +12,31 @@ Jeniffer : Yes, what information do you want to know?
 
 Google: My wife and I want to watch the concert on next weekend, is it available for 2 on next Saturday?
 
-Jeniffer : Sure, There are 2 time slots, Earlier one is 2pm, Later one is 5pm. which time do you prefer?
+Jeniffer : Sure, There are 2 time slots, First one is 2pm, second one is 5pm. which time slot do you prefer?
 
-Google: Ok... Let's make it at 2pm. I've heard that there are a couple of seat types in the concert, Could you explain  What kind of seats do you offer for the concert and how much is it for each of them?
+Google: Ok... Let's make it at 2pm. I've heard that there are a couple of seat types in the concert, Could you explain the differences between seat types?
 
-Jeniffer : We have VIP seat for closer view to stage and thre is also regular seat on first and second floor.
+Jeniffer : We're offering VIP seats with closer views to the stage and also there are also regular seats on first and second floor.
 
-Google : 
+Google : Well, I'd like to take VIP seats for 2 persons. How much is it in total? and Can I pay for tickets with my credit card?
 
-Can you let me know your name and phone number for reservation?
+Jeniffer : It's 200,000 won altogether. If you want to make a reservation. please let me know the credit card number and your phone number.
 
+Google : Sure. My credit card numbers are XXXX-YYYY. and my phone number 0000-1111. Is there anything to reserve tickets?
+
+Jeniffer : No, it's enough. Your confirmation number for reservation will be sent to your phone soon.
+
+Google : Actually, this is my first time to get there, is there available to park?
+
+Jeniffer : Sure. You can park for 3 hours if you purchase tickets.
+
+Google :  Thanks for helping me out. Bye.
 
 ----
 - I tried to purchase tickets online, but your servers are down. I'd like to reserve tickets by phone, and pay them by my credit card. ( by my visa, by my mastercard )
 
 - This is my first time to attend this concert, is there any space to park? 
 - is there enough space for parking?
-- 
 
 ## Movies
 
