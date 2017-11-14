@@ -1,6 +1,6 @@
 # RolePlay Concert & Perfomance
 
-## What kind of concerts of performances do you like to see?
+## What kind of concerts or performances do you like to see?
 
 My favorite performance is musical. I’ve watched musicals a couple of times since 2008. As I watched my first musical “The man of la mancha.”, I have become a big fan of musicals. I was very impressed on live music and emotional acting in musicals. 
 
