@@ -1,11 +1,12 @@
 ### You indicated in the survey that you like listening to music. Can you tell me what kind of music you like? And who is your favorite musician?Why do you like him or her?
 
-I like to listen to various kinds of music. Depends on my feelings/mood, I listen to different genre of music. 
-These days I like to listen to ballad music because I've heard that my favorite singer having a concert. That music like ballad or R&B make me feel touched and relaxed. Also it always blows my mind.
+I like to listen to various kinds of music. Depends on my feelings/mood, I listen to different genre of music. In my 
 
-As for my favorite singer, I'm gonna talk about 이승환 who is one of the most famous male singer in Korean Pop. He debuted in the late 1980s. He has many fans especially in my ages. Including me, they have spent their youth with his songs. He has written and produced hundreds of song and albums. He still has held serveral concerts every year.
+I'm a big fan of Lee Seung Hwan. He is one of the most famous male singers in South Korea. He made his debuted in the late 1980s. He has many fans especially in my ages. Including me, they have spent their youth with his songs.
 
-His voice and tones is so touching and catchy. After I listened a song in his 4th alumn called "천일동안" which mean 'love for 1000 days', I admired him. I even sang his song for my wife at our wedding. it is named in 'unfancy confession'. I chose the song because of the lyrics. The lyrics is about 'sincere and unchaged love no matter what.' I love that song.
+In addition, He is a creative and energetic artist in a music industry. He has written and has produced hundreds of songs and tens of albums. He still has held serveral concerts every year. Most fans crave for attending his concert. All tickets of his concerts have been sold out in a minute.
+
+I admired him. I even sang his song for my wife at our wedding. it is named in 'unfancy confession'. I chose the song because of the lyrics. The lyrics is about 'sincere and unchaged love no matter what.' I love that song.
 
 Overall, that's my taste in music and favorie singer. Thank you.
 
