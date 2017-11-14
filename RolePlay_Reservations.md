@@ -82,3 +82,13 @@ Google: Wonderful. Thank you for your kindess.
 
 ## Hotel
 
+----
+- Are there any rooms available for a reservation?
+- I'd like to reserve a room, but I have some questions beforehand.
+- Your online app is currently not working.
+- It is bothersome to go out and have breakfast, do you offer any continetal (complimentary: included in room deal ) breakfast?
+- I plan to stay at your hotel during X-max weekend, what I would be the ( outgoing ) rate at that time?
+- Can I get an upgrade if the room is too small?
+- What time can I check-in?
+- What's the check-in time?
+- Do you offer hotel amenities such as a jacuzi, a wine bar, a swimming pool, a sauna, a gym?
