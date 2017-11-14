@@ -1,10 +1,10 @@
 ### You indicated in the survey that you like listening to music. Can you tell me what kind of music you like? And who is your favorite musician? Why do you like him or her?
 
-I like to listen to various kinds of music. Depending on my feelings and moods, I listen to different genres of music. But I prefor to listen to ballad music among them. Lee Seung Hwan is one of the most famous ballad singers in Korea. Let me intorduce him.
+I like to listen to various kinds of music. Depending on my feelings and moods, I listen to different genres of music. But I prefer to listen to ballad music more frequently among them. Lee Seung Hwan is one of the most famous ballad singers in Korea. Let me intorduce him.
 
-I'm a big fan of Lee Seung Hwan. He is a historic singer in South Korea. He made his debuted in the late 1980s and he's still active with his music and songs. He has a lot of fans especially in my ages. Including me, they have spent their youth with his songs. Listening his songs makes us reminisce our youth.
+I'm a big fan of Lee Seung Hwan. He is a historic singer in South Korea. He made his debuted in the late 1980s and he's still active with his music. He has a lot of fans especially in my ages. Including me, they have spent their youth with his songs. Listening his songs makes us reminisce our youth.
 
-In addition, He is still a creative and energetic artist. He wrote hundreds of songs and produced tens of albums. But he has still held serveral concerts anually and also has released his albums every year. Most fans crave for attending his concerts. Thererfore, tickets for his concerts have always been sold out in a minute.
+In addition, He is still a creative and energetic artist. He wrote hundreds of songs and produced tens of albums. But he still  has held serveral concerts anually and also has released his albums every year. Most fans crave for attending his concerts. Thererfore, tickets for his concerts have always been sold out in a minute.
 
 After I love his songs and also his passionate performances, I've become to admire him. I'm pretty sure that I'll listen to his music 10 year later.
 
