@@ -1,14 +1,12 @@
-### You indicated in the survey that you like listening to music. Can you tell me what kind of music you like? And who is your favorite musician?Why do you like him or her?
+### You indicated in the survey that you like listening to music. Can you tell me what kind of music you like? And who is your favorite musician? Why do you like him or her?
 
-I like to listen to various kinds of music. Depends on my feelings/mood, I listen to different genre of music. In my 
+I like to listen to various kinds of music. Depending on my feelings and moods, I listen to different genre of music. But ballad is my favorite genre of musics. Lee Seung Hwan is one of the most famous ballad singers in Korea. 
 
-I'm a big fan of Lee Seung Hwan. He is one of the most famous male singers in South Korea. He made his debuted in the late 1980s. He has many fans especially in my ages. Including me, they have spent their youth with his songs.
+I'm a big fan of Lee Seung Hwan. He is a historic singer in South Korea. He made his debuted in the late 1980s and he's still active with his music and songs. He has a lot of fans especially in my ages. Including me, they have spent their youth with his songs. Listening his songs makes us reminisce our youth.
 
-In addition, He is a creative and energetic artist in a music industry. He has written and has produced hundreds of songs and tens of albums. He still has held serveral concerts every year. Most fans crave for attending his concert. All tickets of his concerts have been sold out in a minute.
+In addition, He is still a creative and energetic artist. He wrote hundreds of songs and produced tens of albums. But he has still held serveral concerts anually and also has released his albums every year. Most fans crave for attending his concerts. Thererfore, tickets for his concerts have always been sold out in a minute.
 
-I admired him. I even sang his song for my wife at our wedding. it is named in 'unfancy confession'. I chose the song because of the lyrics. The lyrics is about 'sincere and unchaged love no matter what.' I love that song.
-
-Overall, that's my taste in music and favorie singer. Thank you.
+After I love his songs and also his passionate performances, I become to admire him. I'm pretty sure that I'll listening to his music 10 year later.
 
 ### How did you first get interested in music? What kind of music did you listen to when you were young? How was that music different from the music you listen to today? How has your interest in music changed over the years?
 
