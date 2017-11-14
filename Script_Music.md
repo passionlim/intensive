@@ -2,15 +2,15 @@
 
 I like to listen to various kinds of music. Depending on my feelings and moods, I listen to different genres of music. But I prefer to listen to ballad music more frequently among them. Lee Seung Hwan is one of the most famous ballad singers in Korea. Let me intorduce him.
 
-I'm a big fan of Lee Seung Hwan. He is a historic singer in South Korea. He made his debuted in the late 1980s and he's still active with his music. He has a lot of fans who have spent their time along his music history. Including me, they have spent their youth with his songs. Listening his songs makes us reminisce our youth.
+I'm a big fan of Lee Seung Hwan. He is a historic singer in South Korea. He made his debut in the late 1980s and he's still active with his music. He has a lot of fans who have spent their time along his music history. Including myself, they have spent their youth with his songs. Listening to his songs makes us reminisce our youth.
 
-In addition, He is still a creative and energetic artist. He wrote hundreds of songs and produced tens of albums. But he still  has held serveral concerts anually and also has released his albums every year. Most fans crave for attending his concerts. Thererfore, tickets for his concerts have always been sold out in a minute.
+In addition, He is still a creative and energetic artist. He wrote hundreds of songs and produced dozens of albums. But he still has held serveral concerts anually and also has released his albums every year. Most fans crave attending his concerts. Thererfore, tickets for his concerts have always been sold out in a minute.
 
 After I love his songs and his passionate performances, I've become to admire him. I'm pretty sure that I'll listen to his music 10 year later.
 
 ### How did you first get interested in music? What kind of music did you listen to when you were young? How was that music different from the music you listen to today? How has your interest in music changed over the years?
 
-When I was in high school, i tried to learn rap. In those days, the student went to singing room with friends for playing. I was not good at singing and I wanted to be standout in the singing room, so i tried to find something else. At that time,  Rapper called 김진표 was famous. I decided to memorize all the lyrics of his song in his album. After then, I was interested in rap music.
+When I was in my high school, i tried to learn rap. In those days, the student went to singing room with friends for playing. I was not good at singing and I wanted to be standout in the singing room, so i tried to find something else. At that time,  Rapper called 김진표 was famous. I decided to memorize all the lyrics of his song in his album. After then, I was interested in rap music.
 
 Several years ago, I had a chance to see a musical in my first time. It was sooooo good. and then I bought the album of the musical and listened every day. The musical was the Man of La Mancah which story is about Don Quixote. My favorite song is "Impossible Dream." It helped me overcoming emotional diffilculties in those days. Since then, I have listened to the song to be braver or more confident when I'm in a trouble emotionally.
 
