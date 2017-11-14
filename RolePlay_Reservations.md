@@ -10,13 +10,17 @@ Google : I'd like to get an additional infomation on upcomming dream concert.
 
 Jeniffer : Yes, what information do you want to know?
 
-Google: I reserved the concert for today last week. But I couldn't find my reservation on your website. Could you check my reservation?
+Google: My wife and I want to watch the concert on next weekend, is it available for 2 on next Saturday?
 
-Jeniffer : Sure, Would you let me know your name and phone number?
+Jeniffer : Sure, There are 2 time slots, Earlier one is 2pm, Later one is 5pm. which time do you prefer?
 
-Google: Google Lim, 
+Google: Ok... Let's make it at 2pm. I've heard that there are a couple of seat types in the concert, Could you explain  What kind of seats do you offer for the concert and how much is it for each of them?
 
+Jeniffer : We have VIP seat for closer view to stage and thre is also regular seat on first and second floor.
 
+Google : 
+
+Can you let me know your name and phone number for reservation?
 
 
 ----
