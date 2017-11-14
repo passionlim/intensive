@@ -1,6 +1,6 @@
 ### You indicated in the survey that you like listening to music. Can you tell me what kind of music you like? And who is your favorite musician? Why do you like him or her?
 
-I like to listen to various kinds of music. Depending on my feelings and moods, I listen to different genre of music. But ballad is my favorite genre of musics. Lee Seung Hwan is one of the most famous ballad singers in Korea. 
+I like to listen to various kinds of music. Depending on my feelings and moods, I listen to different genres of music. But ballad is my favorite genre of musics. Lee Seung Hwan is one of the most famous ballad singers in Korea. 
 
 I'm a big fan of Lee Seung Hwan. He is a historic singer in South Korea. He made his debuted in the late 1980s and he's still active with his music and songs. He has a lot of fans especially in my ages. Including me, they have spent their youth with his songs. Listening his songs makes us reminisce our youth.
 
