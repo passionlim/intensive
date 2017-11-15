@@ -27,5 +27,7 @@ The main guest was 김건모, he is still a big star in Korea on the TV show. Af
 I and my wife had a really great time to recall our youth. this is about my recent expeirence for live music.
  
 
+### Which device do people like to listen to music on? Why do people prefer it? please explain.
+
 
 
