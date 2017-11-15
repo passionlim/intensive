@@ -28,3 +28,13 @@ We all are connected to each other on the Internet. So you can send mesages or p
 Before the Internet come out, it was not easy to send a message to someone who stayed remotely. You could just make a call on the phone. It means that you have to be right there at the phone. 
 
 But As the technology has been progressed, there are many changes to connect without a space
+
+## How has technology evolved over years? Describe how a piece of technology ( and electronic device ) has developed over this years.
+ 
+Ever since technology has been sharply developing, the way of the people’s communication has also changed. Definitely, smartphones are the lastest cutting edge devices in the communication technology history. Let’s try to track the changes of cell phones.
+
+First, the first generation of mobile phone was very useful and convenient for people to communicate at that time. For example, In my colleage, I had been carrying around my cellphone everywhere. I could send short messages to my friends and I also was able to talk to my friends using cellphone regardless my location.
+
+Since Apple and Samsung released their the state of the art smartphones in the late 2000s, communication between people have been became diverse. Since smartphones have Internet connections, we can use social media services and internet messenger services with multimedia such as photos, music, videos.
+
+To sum up, No one knows what devices will take over smartphones in the future. Perhaps, there would be chips in our bodys for cummunication.
