@@ -12,7 +12,7 @@ I’ve never thought that I’m healthy. I’m obese and I have high blood press
 
 First of all, I started to work out at the gym in my apartment serveral weeks ago. According to the result of my health checkup, I need to reduce my weight to keep my health. So I’m trying to go to the gym on weekends or when I have free time after work.
 
-Second of all, I intake some nutritional supplements to recover my health. Regarding to the health checkup result, I’m lacking in some hormones and minerals. I also try to east fruits and vegetables to fill necessary minerals.
+Second of all, I intake some nutritional supplements to recover my health. Regarding to the health checkup result, I’m lacking in some hormones and minerals. I also try to eat fruits and vegetables to fill necessary minerals.
 
 In conclusion, I have an important reason to keep myself healthy because I have a little daughter who will be with me for over 20 years.
 
