@@ -10,11 +10,11 @@ After I love his songs and his passionate performances, I've become to admire hi
 
 ### How did you first get interested in music? What kind of music did you listen to when you were young? How was that music different from the music you listen to today? How has your interest in music changed over the years?
 
-In my 20s, I was a fan of rap music. Looking back, students went to a karaoke with their friends for playing. At that time, rap music began to be listed on the music chart.Actually, I had practiced famous raps to stand out from my friends in a karaoke. I downloaded famous raps and memorize all lyrics. After then, I became interested in rap music.
+In my 20s, I was a fan of rap music. Looking back, students went to a karaoke with their friends for fun. At that time, rap music began to be listed on music charts. Actually, I had practiced famous raps to stand out from my friends in a karaoke. I downloaded famous raps and memorize all lyrics. After then, I became interested in rap music.
 
-But now, I like to listen to musical music. Since I can afford attending musicals,  my music taste has been changed to musical music. Compared to the rap music, musical music help me fascinated and passionate for my life because the story of musical reflects our lives. I’m still listening my favorite musical song “Impossible Dream” every day.
+But now, I like to listen to musicals. Since I can afford attending musicals, my music taste has changed to musicals. Compared to the rap music, it help me fascinated and passionate for my life because the stories of musicals reflect our lives. I’m still listening my favorite musical song “Impossible Dream” every day.
 
-To sum up, I have no idea what music has affected on me, but I can be sure I’ve changed my music taste depending on my situations.
+To sum up, I have no idea how music has affected me, but I can be sure I’ve changed my music taste depending on my situations.
 
 ### Tell me about a time when you went to listen to some live music. Perhaps it was at a concert or live café. What was the mood like?How did you like the music you listen to there? 
 
@@ -32,7 +32,7 @@ When it comes to my favorite music electronic devices, most people prefer using 
 
 First of all, smartphones are all-in-1 devices. Before smartphones came into our lives, there were various electronic gadgets for listening to music like mp3 players and cd players. But those players are specialized for listening to music. Smartphones are multi-funcational. We don’t need to carry any other device.
 
-Second of all, we can listen to music in a more convenient way. Because we can access the Internet using smartphones, we can download music on our devices or play music on demand by streaming.
+Second of all, we can listen to music in a more convenient way. Because we can access the internet using smartphones, we can download music on our devices or play music on demand by streaming.
 
 To sum up, I can’t imagine not using smartphone when listening to music because they have convenient and useful functions. However, due to their multi-functionality, you’d be bothered by other application installed on your phone. If you really want to concentrate on listening to music, you’d better switch your startphone to airplane mode.
 
