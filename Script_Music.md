@@ -28,7 +28,7 @@ I and my wife had a really great time to recall our youth. this is about my rece
 
 ### Which device do people like to listen to music on? Why do people prefer it? please explain.
 
-When it comes to my favorite music electronic devices, most people prefer using their smartphones to listen to music. There are some reasons why people do so. Let me introduce them.
+When it comes to our favorite music electronic devices, most people prefer using their smartphones to listen to music. There are some reasons why people do so. Let me introduce them.
 
 First of all, smartphones are all-in-1 devices. Before smartphones came into our lives, there were various electronic gadgets for listening to music like mp3 players and cd players. But those players are specialized for listening to music. Smartphones are multi-funcational. We don’t need to carry any other device.
 
