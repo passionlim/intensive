@@ -5,7 +5,7 @@ First of all, you need to get enough rest to stay yourself healthy. If you don�
 
 At Second, you should eat well-balanced foods as well to protect you body from germs and virus. If you break the balance of nutriens in you body, you can become easily sick. So you have to eat foods including various minerals and vitamins. 
 
-To wrap it up, I mentioned just 2 things to do, getting enough rest and eating well-balanced foods. These are the baseline to keep your health.
+To wrap it up, I mentioned just 2 things to do, getting enough rest and eating well-balanced foods. Following these are the baseline to keep your health.
 
 ### What do you do to stay healty?
 I’ve never thought that I’m healthy. I’m obese and I have high blood pressure as well. After I received the result of my last health check-up, I have been concerned about my health. There were bad signals for my health in the result.
