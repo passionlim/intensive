@@ -14,7 +14,7 @@ First of all, according to the result of my health checkup, I need to reduce my 
 
 Second of all, Regarding to the health checkup result, I’m lacking in some hormones and minerals. The lack of some homrmons can cause reducing concentration and lethargy. Therefore, I decided to intake some nutritional supplements to prevent myself from getting worse. I also try to eat fruits and vegetables to fill necessary minerals.
 
-In conclusion, I have an important reason to keep myself healthy because I have a little daughter who will be with me for over 20 years.
+In conclusion, I have an important reason for keeping myself healthy because I have a little daughter who will be with me for over 20 years.
 
 ### Tell me about a health problem that your or a person close to you had? Where were the symthoms? What did you or the other person do to get over it?
 
