@@ -10,9 +10,9 @@ To wrap it up, I mentioned just 2 things to do, getting enough rest and eating w
 ### What do you do to stay healty?
 I’ve never thought that I’m healthy. I’m obese and I have high blood pressure as well. After I received the result of my last health check-up, I have been concerned about my health. There were bad signals for my health in the result.
 
-First of all, I started to work out at the gym in my apartment serveral weeks ago. According to the result of my health checkup, I need to reduce my weight to keep my health. So I’m trying to go to the gym on weekends or when I have free time after work.
+First of all, according to the result of my health checkup, I need to reduce my weight to keep my health. I started to work out at the gym at my apartment serveral weeks ago. I usually walk on a treadmill. So I’m trying to go to the gym on weekends or when I have free time after work.
 
-Second of all, I intake some nutritional supplements to recover my health. Regarding to the health checkup result, I’m lacking in some hormones and minerals. I also try to eat fruits and vegetables to fill necessary minerals.
+Second of all, Regarding to the health checkup result, I’m lacking in some hormones and minerals. The lack of some homrmons can cause reducing concentration and lethargy. Therefore, I decided to intake some nutritional supplements to prevent myself from getting worse. I also try to eat fruits and vegetables to fill necessary minerals.
 
 In conclusion, I have an important reason to keep myself healthy because I have a little daughter who will be with me for over 20 years.
 
@@ -20,9 +20,8 @@ In conclusion, I have an important reason to keep myself healthy because I have 
 
 I’ve never thought that I’m healthy. I’m obese and I have high blood pressure as well. After I received the result of my last health check-up, I have been concerned about my health. There were bad signals for my health in the result.
 
-First of all, I started to work out at the gym at my apartment serveral weeks ago. According to the result of my health checkup, I need to reduce my weight to keep my health. So I’m trying to go to the gym on weekends or when I have free time after work.
+First of all, according to the result of my health checkup, I need to reduce my weight to keep my health. I started to work out at the gym at my apartment serveral weeks ago. I usually walk on a treadmill. So I’m trying to go to the gym on weekends or when I have free time after work.
 
-Second of all, I intake some nutritional supplements to recover my health. Regarding to the health checkup result, I’m lacking in some hormones and minerals. I also try to eat fruits and vegetables to fill necessary minerals.
+Second of all, Regarding to the health checkup result, I’m lacking in some hormones and minerals. The lack of some homrmons can cause reducing concentration and lethargy. Therefore, I decided to intake some nutritional supplements to prevent myself from getting worse. I also try to eat fruits and vegetables to fill necessary minerals.
 
 In conclusion, I have an important reason to keep myself healthy because I have a little daughter who will be with me for over 20 years.
-
