@@ -8,7 +8,7 @@ Secondly, you should eat well-balanced foods as well to protect you body from ge
 To wrap it up, I mentioned just 2 things to do, getting enough rest and eating well-balanced foods. Following these rules is the baseline to maintain your health.
 
 ### What do you do to stay healty?
-I’ve never thought that I’m healthy. I’m obese and I have high blood pressure as well. After I received the result of my last health check-up, I have been concerned about my health. There were bad signals for my health in the result.
+I’ve never thought that I’m healthy. I'm obese and I have high blood pressure as well. After I received the result of my last health check-up, I have been concerned about my health. There were bad signals for my health in the result.
 
 First of all, according to the result of my health checkup, I need to reduce my weight to keep my health. I started to work out at the gym at my apartment serveral weeks ago. I usually walk on a treadmill. So I’m trying to go to the gym on weekends or when I have free time after work.
 
