@@ -14,7 +14,7 @@ At second, we had a memorable bicycle trip with my daugher. It was the first bic
 
 ### Tell me about unusual or unexpected experience you had  during the vacation that you spent at home. What happened and why was it so memorable?
 
-There is no unexpected experience that I can recall so far. But I can take a bicycle trip with my family as a memorable event on last Korean Thankgiving holiday. We had 9 days off during the holiday.
+There is no unexpected experience that I can recall so far. But I can take a bicycle trip with my family as a memorable event during last Korean Thankgiving holiday. We had 9 days off during the holiday.
 
 My daughter is 6yrs. But staying at home for an entire day was not easy for her. she was bored and really wanted to go outside. We decided to go on a bicycle trip all family together. The destiation was the riverside park 4 killometers away. It was not quite far for me, but it was a challenging distance for my daughter.
 
