@@ -17,14 +17,14 @@ Therefore, I **can’t imagine** I would live without smartphones.
 
 ## Tell me about some issues people talk about related to technology. Why is it a problem? How do people deal with this problem.
 
-- I : addiction to cellphone
-- B1 :
+- I : addiction to smartphone
+- B1 : unexpected accidents ( smombie )
 - B2 :
 - C : 
 
-People are stuck with stamtphones all the time. When they walk, when they watch TV, when they lay on the bed, they always spend a time with their smartphones. However, **addiction to cellphones** has become social issues.
+People are stuck with stamtphones all the time. When they walk, when they watch TV, when they lay on the bed, they always spend a time with their smartphones. However, **addiction to smartphones** has become social issues.
 
-First of all, the addiction to the cellphone cause unexpected accidents. Nowadays it’s not easy to find people who are watching phone while they’re walking on the street. It’s very dangerous that it makes people get hurt by cars or bicycles. For this reason, the media has handled these issues several times.
+First of all, the addiction to smartphones cause unexpected accidents. Have you heard of smombie? The word refers to people watching smartphones while walking on the street. It’s very dangerous that it makes people get hurt by cars or bicycles. For this reason, the media has handled these issues several times.
 
 Second of all, offline relationship between people are getting worse because of the addiction. There are people at a restaurant who don’t have a chat with each other sitting at the same table. They just focus on what they’re doing  wherever they are. I’m sure that this cause disconnection between people especially even in a family. Thus some parents prevent their children from using smart phone too much.
 
