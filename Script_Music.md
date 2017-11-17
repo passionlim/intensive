@@ -10,11 +10,11 @@ After I love his songs and his passionate performances, I've become to admire hi
 
 ### How did you first get interested in music? What kind of music did you listen to when you were young? How was that music different from the music you listen to today? How has your interest in music changed over the years?
 
-In my 20s, I was a fan of rap music. Looking back, students went to a karaoke with their friends for fun. At that time, rap music began to be listed on music charts. Actually, I had practiced famous raps to stand out from my friends in a karaoke. I downloaded famous raps and memorize all lyrics. After then, I became interested in rap music.
+In my 20s, I was a fan of **rap music**. Looking back, students went to a karaoke with their friends for fun. At that time, rap music began to be listed on music charts. Actually, I had practiced famous raps to stand out from my friends in a karaoke. I downloaded famous raps and memorize all lyrics. After then, I became interested in rap music.
 
-But now, I like to listen to musicals. Since I can afford attending musicals, my music taste has changed to musicals. Compared to the rap music, it help me fascinated and passionate for my life because the stories of musicals reflect our lives. I’m still listening my favorite musical song “Impossible Dream” every day.
+But now, I like to listen to **musicals**. Since I can afford attending musicals, my music taste has changed to musicals. Compared to the rap music, it help me fascinated and passionate for my life because the stories of musicals reflect our lives. I’m still listening my favorite musical song “Impossible Dream” every day.
 
-To sum up, I have no idea how music has affected me, but I can be sure I’ve changed my music taste depending on my situations.
+To sum up, I have no idea how music has affected me, but I can be sure I’ve changed my music taste **depending on my situations**.
 
 ### Tell me about a time when you went to listen to some live music. Perhaps it was at a concert or live café. What was the mood like?How did you like the music you listen to there? 
 
