@@ -1,6 +1,8 @@
 ### You indicated in the survey that you take vacations at home. When you stay home during the vacation, what do you normally do? And who do you normally meet ?
 
-Well, I'm married to my wife and we have a little daughter. I try to spend the most of my time with her when I stay at home. You know, most working moms are exhausted after caring for their children on weekdays. Parenting during vacation usually is men's duty. My daughter likes to ride a bicycle in my town these days, so I usually go outside with her and watch her ride safely. Sometimes she falls down on the bicycle, but I just shake off the dust on her clothes. 
+Well, I'm married to my wife and we have a little daughter. I try to spend the most of my time with her when I stay at home. You know, most working moms are exhausted after caring for their children on weekdays. Parenting during vacation usually is men's duty. 
+
+My daughter likes to ride a bicycle in my town these days, so I usually go outside with her and watch her ride safely. Sometimes she falls down on the bicycle, but I just shake off the dust on her clothes. 
 
 Actually, I like to stay indoors rather than outdoors. I like to spend time with my smart phone siting on the couch in the livingroom. And also I bought a foot massage machine a few weeks ago. Getting a foot massage is my favorite activity at home. In my opinion, I'm pretty sure that staying relaxed during holidays is like putting fuel into my mind and my body.
 
