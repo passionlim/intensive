@@ -1,11 +1,11 @@
 ### What can someone do to stay healthy.
 When you catch a cold, what do you do for your recovery? You would get enough sleep and eat well for recovery. Those ways are good for your health as well.
 
-First of all, you need to get enough rest to stay yourself healthy. If you don’t, your body and mind cannot be recovered, and then you can be easily sick. I read on some articles that sleeping for 8 hours is mostly recommended for your health. Sleeping enough at night definitly fills up energy in your mind and body.
+First of all, you need to get enough rest to stay healthy. If you don’t, your body and mind cannot be recovered, and then you can be sick easily. I read on some articles that sleeping for around 8 hours is mostly recommended for your health. Sleeping enough at night definitly fills up energy in your mind and body.
 
-At Second, you should eat well-balanced foods as well to protect you body from germs and virus. If you break the balance of nutriens in you body, you can become easily sick. So you have to eat foods including various minerals and vitamins. 
+Secondly, you should eat well-balanced foods as well to protect you body from germs and viruses. If you break the balance of nutriens in you body, you can become sick easily. So you have to eat foods including various minerals and vitamins. 
 
-To wrap it up, I mentioned just 2 things to do, getting enough rest and eating well-balanced foods. Following these rules is the baseline to keep your health.
+To wrap it up, I mentioned just 2 things to do, getting enough rest and eating well-balanced foods. Following these rules is the baseline to maintain your health.
 
 ### What do you do to stay healty?
 I’ve never thought that I’m healthy. I’m obese and I have high blood pressure as well. After I received the result of my last health check-up, I have been concerned about my health. There were bad signals for my health in the result.
