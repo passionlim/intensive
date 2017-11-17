@@ -2,13 +2,18 @@
 
 ## Tell us about the electronics devices you use every day?
 
-I like to use a various kind of electronic devices at home and at the office. Especially the smartphones are the most helpful devices for me. Let me just give you details.
+- I : convenient / useful smartphones 
+- B1 : diverse functions of smartphone  
+- B2 : efficient function at work
+- C : necessary for my life
 
-The mobile phone I used in 1990s was just to make a call wirelessly. It was convenient at that time. However since smartphones came out, its functions have become diverse as time goes on ( = along with a time ). We can take high quality pictures every day with smartphones. It’s not necessary to carry a heavy digital camera for high quality pictures. Also We can watch online videos on Youtube when we have free time. 
+I like to use a various kind of electronic devices at home and at work. Among them, smartphones are the most **convenient and helpful devices** for me. Let me give you some reasons.
 
-Plus I can communicate effectively with colleagues at work by just sending a message or a file. We don’t need to meet together or describe specific issues on the phone nowadays.
+First of all, I can enjoy various functions of my smartphone whenever I want. I can take high quality photos using my smartphone instead of carrying my heavy digital camera. Also I can watch interesting game videos online. I'm absolutely stunk with **my smartphone at home**.
 
-Therefore, I can’t imagine I would live without smartphones.
+Plus I can effectively **communicate with colleagues at work** regardless my location. I can send and read documents using smartphone wherever I am. So to share infomation, it is not necessary to meet my colleage. If someone need my opinion, I can just reply messages even at home.
+
+Therefore, I **can’t imagine** I would live without smartphones.
 
 ## Tell me about some issues people talk about related to technology. Why is it a problem? How do people deal with this problem.
 
