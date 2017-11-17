@@ -28,13 +28,13 @@ I and my wife had a really great time to recall our youth. this is about my rece
 
 ### Which device do people like to listen to music on? Why do people prefer it? please explain.
 
-When it comes to our favorite music electronic devices, most people prefer using their smartphones to listen to music. There are some reasons why people do so. Let me introduce them.
+When it comes to our favorite music electronic devices, most people prefer using their **smartphones** to listen to music. There are some reasons why people do so. Let me introduce them.
 
-First of all, smartphones are all-in-1 devices. Before smartphones came into our lives, there were various electronic gadgets for listening to music like mp3 players and cd players. But those players are specialized for listening to music. Smartphones are multi-funcational. We don’t need to carry any other device.
+First of all, smartphones are **all-in-1 devices**. Before smartphones came into our lives, there were various electronic gadgets for listening to music like mp3 players and cd players. But those players are specialized for listening to music. Smartphones are multi-funcational. We don’t need to carry any other device.
 
-Second of all, we can listen to music in a more convenient way. Because we can access the internet using smartphones, we can download music on our devices or play music on demand by streaming.
+Second of all, we can listen to music in a **more convenient way**. Because we can access the internet using smartphones, we can download music on our devices or play music on demand by streaming.
 
-To sum up, I can’t imagine not using smartphone when listening to music because they have convenient and useful functions. However, due to their multi-functionality, you’d be bothered by other application installed on your phone. If you really want to concentrate on listening to music, you’d better switch your startphone to airplane mode.
+To sum up, I can’t imagine not using smartphone when listening to music because they have convenient and useful functions. However, due to their **multi-functionality**, you’d be bothered by other application installed on your phone. If you really want to concentrate on listening to music, you’d better switch your startphone to airplane mode.
 
 
 
