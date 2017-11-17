@@ -9,16 +9,20 @@
 
 I like to use a various kind of electronic devices at home and at work. Among them, smartphones are the most **convenient and helpful devices** for me. Let me give you some reasons.
 
-First of all, I can enjoy various functions of my smartphone whenever I want. I can take high quality photos using my smartphone instead of carrying my heavy digital camera. Also I can watch interesting game videos online. I'm absolutely stunk with **my smartphone at home**.
+First of all, I can enjoy various functions of my smartphone whenever I want. I can take high quality photos using my smartphone instead of carrying my heavy digital camera. Also I can watch interesting game videos online. I'm absolutely stuck with **my smartphone at home**.
 
-Plus I can effectively **communicate with colleagues at work** regardless my location. I can send and read documents using smartphone wherever I am. So to share infomation, it is not necessary to meet my colleage. If someone need my opinion, I can just reply messages even at home.
+Plus I can effectively **communicate with my colleagues at work** regardless my location. I can send and read documents using smartphone wherever I am. Therefore to share infomation, I don't have to meet my colleagues face to face. If someone need my opinion, I can just reply messages even at home.
 
 Therefore, I **can’t imagine** I would live without smartphones.
 
 ## Tell me about some issues people talk about related to technology. Why is it a problem? How do people deal with this problem.
 
-People are stuck with cell phones for a whole day. When they walk, when they watch TV, when they lay on the bed, they always spend a time with their cellphones. However, this addiction to cellphones has become social issues.
-( a social concern )
+- I : addiction to cellphone
+- B1 :
+- B2 :
+- C : 
+
+People are stuck with stamtphones all the time. When they walk, when they watch TV, when they lay on the bed, they always spend a time with their smartphones. However, **addiction to cellphones** has become social issues.
 
 First of all, the addiction to the cellphone cause unexpected accidents. Nowadays it’s not easy to find people who are watching phone while they’re walking on the street. It’s very dangerous that it makes people get hurt by cars or bicycles. For this reason, the media has handled these issues several times.
 
