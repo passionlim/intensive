@@ -28,10 +28,21 @@ As the artificial intelligence technology has wildly spread over our lives these
 
 First of all, people think that AI technology will take their jobs using its automatic ability. For example, let's think about automatic driving cars. If they come into our lives, we don't need taxi dirvers and bus drivers any more in our future.
 
-Secondly, the AI technology needs huge amount of data to learn people's life pattern. So representitive companies researching AI technology have collected a lot of private data without people's recognition. So some people have concerns about the companies misusing for their private data.
+Secondly, the AI technology needs huge amount of data to learn people's life pattern. So representitive companies researching AI technology have collected a lot of private data without people's recognition. So some people have concerns about misuse of their private data.
 
 In conclusion, all technolgies have advantages and disadvantages. However we don't need to seriously worry about the disadvantages. That's because human beings always step forward againt threats toward them.
 
 ## Tell me about a specific company that has archieved a high level of sucess in your industry.
 
+Intro : Naver Introduction
+Body #1 : 1st strategy / customer's taste
+Body #2 : 2nd strategy / plenty of Korean contents
+Conclusion : focusing on  
 
+How many conturies haven't been conquered by Google search engine in the world. Korea is one of them. **Naver** is the most widly used search engine and portal service in South Korea. Let me introduce how NAVER has stood out from google.
+
+The first strategy of NAVER was to focus on its customers' tastes. Korean people wanted not only search results but also various suggested and curated information while using the Internet. Curation strategy was similar with the one of YAHOO. YAHOO failed to stand out from GOOGLE in the US market but NAVER succeeded with the same strategy in Korean market. Naver got a 1st point.
+
+The second strategy of NAVER was to collect contents written in Korean Language as much as possible. In the past over 10 years, in the begging of the Internet, there was not enough infomation and documents written in Korean to privide accurate search results for customers. To archieve this purpose, NAVER have offered various contents creating tools such as Naver blog and Naver cafe. Consequently Naver could collect the biggest contents written in Korean and then became the sucessful service in South Korea. Naver got a 2nd point.
+
+In conclusion, nobody knows what will happen in the IT industry even in 5 years. However as Naver did, I'm sure that the one **focusing on its customers** will take the 1st rank.
