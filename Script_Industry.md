@@ -2,10 +2,10 @@
 
 ## Major industries / companies
 
-Intro : competitive domestic internet services
-Body 1 : NAVER / portal servcie / detail and well-organized contents
-Body 1 : KAKAO / instant messaging service / begin ahead against competitors
-Conclusion : how well the companies focus on their customers.
+- Intro : competitive domestic internet services
+- Body 1 : NAVER / portal servcie / detail and well-organized contents
+- Body 1 : KAKAO / instant messaging service / begin ahead against competitors
+- Conclusion : how well the companies focus on their customers.
 
 Korea has competitive domestic internet services compared to services from global companies such as Google and Facebook. I’m very proud of those companies being able to take a stand versus global companies. Let me introduce how to achieve this success.
 
@@ -19,10 +19,10 @@ C2, Additionally, as those companies continue to focus on their customers’ tas
 
 ## What are some challenges that the industry you mentioned face? Give details.
 
-Intro : concerns about AI technology
-Body 1: peoples'jobs / automatic driving cars / taxi and bus drivers
-Body 2: collecting people's privacy data / without recogniion
-Conclution : human beings / step forward against threat 
+- Intro : concerns about AI technology
+- Body 1: peoples'jobs / automatic driving cars / taxi and bus drivers
+- Body 2: collecting people's privacy data / without recogniion
+- Conclution : human beings / step forward against threat 
 
 As the artificial intelligence technology has wildly spread over our lives these days, we can experience convenient IT services like a secretary service to maintain our schedules and music recommendation function to match our music preferences. However there are some challenges that people has been concerned about. 
 
@@ -34,10 +34,10 @@ In conclusion, all technolgies have advantages and disadvantages. However we don
 
 ## Tell me about a specific company that has archieved a high level of sucess in your industry.
 
-Intro : Naver Introduction
-Body #1 : 1st strategy / customer's taste
-Body #2 : 2nd strategy / plenty of Korean contents
-Conclusion : focusing on  
+- Intro : Naver Introduction
+- Body #1 : 1st strategy / customer's taste
+- Body #2 : 2nd strategy / plenty of Korean contents
+- Conclusion : focusing on  
 
 How many conturies haven't been conquered by Google search engine in the world. Korea is one of them. **Naver** is the most widly used search engine and portal service in South Korea. Let me introduce how NAVER has stood out from google.
 
