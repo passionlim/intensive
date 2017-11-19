@@ -7,11 +7,11 @@
 - Body 1 : KAKAO / instant messaging service / begin ahead against competitors
 - Conclusion : how well the companies focus on their customers.
 
-Korea has competitive domestic internet services compared to services from global companies such as Google and Facebook. I’m very proud of those companies being able to take a stand versus global companies. Let me introduce how to achieve this success.
+Korea has competitive domestic internet services. I’m very proud of those companies being able to take a stand versus gigantic companies such as Google and Facebook. Let me introduce how to achieve this success.
 
-First of all, most Korean use the domestic search engine called NAVER using their PC and their mobilephones. As you know, google’s search engine provides search results in a simple way. However, Korean prefer consuming detail and well-organized contents provided NAVER. Knowing people’s taste well is the key to the success.
+First of all, most Korean use the domestic search engine called NAVER using their PC and their mobilephones. Although google’s search engine has provided search results in a simple way, NAVER has offered contents in a different way. Korean users prefer consuming detail and well-organized contents on the Internet. NAVER have performed to match users' tastes so far. 
 
-Secondly, there is a successful company called KAKAO in the instant messaging service market. KAKAO began to its business before global competitors. It provides various functions for people to share their photos and videos. Finally, the messaging service have become the most wildly used messaging servie in Korea. 
+Secondly, there is a successful company called KAKAO in the instant messaging service market. KAKAO began its business in advance to global competitors. KAKAO has provided various functions that people expected to share their photos and videos. Finally, KAKAOTALK have become the most wildly used instant messaging service in South Korea. 
 
 C1, In conclusion, I introduced two Korean companies that fare well against global internet companies. They show us that the success of internet business is definitely related to how well they know their customers.
 
