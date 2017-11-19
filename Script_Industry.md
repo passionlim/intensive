@@ -24,7 +24,7 @@ C2, Additionally, as those companies continue to focus on their customers’ tas
 - Body 2: collecting people's privacy data / without recogniion
 - Conclution : human beings / step forward against threat 
 
-As the artificial intelligence technology has wildly spread over our lives these days, we can experience convenient IT services like a secretary service to maintain our schedules and music recommendation function to match our music preferences. However there are some challenges that people has been concerned about. 
+As the artificial intelligence technology has wildly spread over our lives these days, we can experience convenient IT services like a secretary service to maintain our schedules and music recommendation function to match our music preferences. However there are some challenges against AI technology.
 
 First of all, people think that AI technology will take their jobs using its automatic ability. For example, let's think about automatic driving cars. If they come into our lives, we don't need taxi dirvers and bus drivers anymore in our future. However as there was ludite movement in the 19 centry after the first industry revolution, the concern would not be serious.
 
