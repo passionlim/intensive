@@ -7,7 +7,7 @@
 - Body1(2) : watch children playing
 - Body2(2) : catch bugs 
 - Body3(2) : watch my smartphones 
-- Conclusion(2) : 
+- Conclusion(2) : exiting place
 
 I really enjoy going to the park next to my apartment. I have a little daughter who wants to go the park whenever I can.
 
@@ -25,7 +25,7 @@ I’m really fortunate to have such an exiting park to have fun with my family n
 - Body1(2) : familiar neighborhoods.
 - Body2(2) : work out
 - Body3(2) : relieve stress
-- Conclusion(2) : pleasure to
+- Conclusion(2) : good park
 
 When I moved into the town that I’m living in 3 years ago. I was unfamiliar with  neighborhoods nearby at that time.
 
