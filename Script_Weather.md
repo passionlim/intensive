@@ -22,7 +22,7 @@ To sum it up, although I can enjoy various activities for that each season, I no
 - Body2 : lack of water
 - Conclusion : solution
 
-Since global warming has had an effect on weather changes globally, the climate of Korea cannot avoid its effect.
+Since global warming has had an effect on weather changes globally, It goes witout saying that the climate of Korea cannot avoid its effect.
                            
 Since recent several years, there have been the news reporting climate changes in South Korea. The news mentioned that winters and summers are longer and longer and springs and falls are shorter and shorter as time goes by. It means that Korea is having similar climates with warmer countries. 
 
