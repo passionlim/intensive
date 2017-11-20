@@ -1,4 +1,4 @@
-#[Topic] Weather
+# [Topic] Weather
 
 ## I would like to know about the seasons in your country. How many seasons are there? How are they different? What is the weather like in each season?
 
@@ -26,7 +26,7 @@ Since global warming has had an effect on weather changes globally, the climate 
                            
 Since recent several years, there have been the news reporting climate changes in South Korea. The news mentioned that winters and summers are longer and longer and springs and falls are shorter and shorter as time goes by. It means that Korea is having similar climates with warmer countries. 
 
-After the long-lasting winter, we have been frequently facing lack of water in the spring for recent few years. Most places  where water is stored  has been dried up. Some farmers are facing troubles to raise their crops.
+After the long-lasting winter, we have been frequently facing lack of water in the spring for recent few years. Most places  where water is stored  has been dried up. Some farmers are facing troubles to raise their crops
 
-To wrap in up, the change in weather affects out lives in an adverse way. But as human beings have been adaptive for their environments, we will find a way to solve.
+In conclusion, the change in weather affects out lives in an negative way. However as human beings have been adaptive for their environments, we will find a way to solve.
 
