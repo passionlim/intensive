@@ -27,9 +27,9 @@ I’m really fortunate to have such an exiting park to have fun with my family n
 - Body3(2) : relieve stress
 - Conclusion(2) : good park
 
-When I moved into the town that I’m living in 3 years ago. I was unfamiliar with  neighborhoods nearby at that time.
+When I moved into the town that I’m living in 3 years ago. I was unfamiliar with my neighborhood nearby at that time.
 
-One day, I went out with my daughter to looking around my neighborhoods. I found the park having a road along a narrow creek 5 minutes away from home. There were some people to enjoy jogging and riding their bicycles along the road. After I watched they were working out, I suddenly felt guility for being obese and lazy at that time. After taking a walk for a while, I figured that walking in the park and breathing fresh air were helpful for me to relieve my stress.
+One day, I went out with my daughter to look around my neighborhood. I found a park that have a walking road along a narrow creek. It was 5 minutes away from home. There were some people to enjoy jogging and riding their bicycles along the road. After I saw they were working out, I suddenly felt guility for being obese and lazy at that time. After taking a walk for a while, I figured that walking in the park and breathing fresh air were helpful for me to relieve my stress.
 
 From that point on, I started going to the park more often. I’m really fortunate to have such a good park within walking distance nearby.
 
