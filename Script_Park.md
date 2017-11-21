@@ -11,9 +11,9 @@
 
 I really enjoy going to the park next to my apartment. I have a little daughter who wants to go the park whenever I can.
 
-What I mainly do is taking care of my daughter and playing with her in the park.  There are many children from my town and so they usually play together. It helps us to have fun and to strength our relationship between a father and a daughter. 
+What I mainly do in the park is taking care of my daughter and playing with her. There are many children from my town and so they usually play together. It helps us to have fun and to strengthen our relationship between father and daughter. 
 
-If my daughter is not playing with her friends, then she’s most likely catching bugs near the park. There are paths to the mountain next to the park. My daughter doesn’t have fear to touch bugs yet. I just look after her not getting hurt.
+If my daughter is not playing with her friends, then she's most likely catching bugs near the park. There are paths to the mountain next to the park. My daughter doesn’t have fear to touch bugs yet. I just look after her not getting hurt.
 
 I don’t mind playing with my daughter, but I also like to watch my smartphone while sitting on the bench. It’s always possible to have fun with smartphones until my daughter call me. 
 
