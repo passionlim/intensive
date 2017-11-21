@@ -3,9 +3,10 @@
 
 ## Tell me about the hotels in your country. Where are they usually located? Do they have any special characteristics that are unique to your country? Give as many details as possbiel.
 
-Intro : Korean guesthouse
-B1 : traditional door / humidity / preventing cold air
-B2 : roof function / preventing hot air
+- Intro : Korean guesthouse
+- B1 : traditional door / humidity / preventing cold air
+- B2 : roof function / preventing hot air
+- Concl : nature-friendly 
 
 Most hotels in Korea are built in western-style these days. However, in certain area such as 전주, we can experience Korean style guesthouses.
 
@@ -17,11 +18,11 @@ In conclusion, I’m fortunate to experience such a nature-friendly accomodation
 
 ##  Memorable experience while staying at a hotel
 
-Intro : Guam trip as first overseas trip
-Body1: old fashioned and disgusting smell
-Body2: such a fatistic view 
-body3: great amenities / satisfying breakfast 
-Conclusion : memorable trip with a family
+- Intro : Guam trip as first overseas trip
+- Body1: old fashioned and disgusting smell
+- Body2: such a fatistic view 
+- Body3: great amenities / satisfying breakfast 
+- Conclusion : memorable trip with a family
 
 I married my wife in 2010. However after then, I had never visited any travel spot overseas before our first trip to Guam in 2016. 
 
@@ -36,11 +37,11 @@ To wrap it up , It was our great first trip overseas all family together. I lear
 
 ## A: Explain the process of making a reservation at a hotel. B: Describe the first and second thing you do when you visit a hotel
 
-Intro : travel website 
-B1 : dates and destincation
-B2 : check information of room
-B3 : fill out personal information
-Conclusion: paying and confirmation
+- Intro : travel website 
+- B1 : dates and destincation
+- B2 : check information of room
+- B3 : fill out personal information
+- Conclusion: paying and confirmation
 
 These days most people don’t go to travel agencies to make a reservation for a hotel. There are various easy-to-use websites that help people to reserve a room with well-organized information. Let’s go step by step for reserving a room.
 
