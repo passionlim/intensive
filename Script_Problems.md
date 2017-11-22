@@ -21,10 +21,10 @@ Finally I can get back my normal life at home and now I don’t need to worry to
 
 ## Q1b Have you had any problems in your home? What was the problem, and how did you deal with it?
 
-Background : rent / permission
-Cause+Problem : air conditioner broken
-Solution : service center
-Conclusion : less expensive
+- Background : rent
+- Cause+Problem : air conditioner broken
+- Solution : service center
+- Conclusion : less expensive
 
 I’m living in an apartment for rent. When I need to fix a problem in my house, especially needed expansive costs, sometimes I need to ask a permission for fixation to my house owner.
 
@@ -32,23 +32,23 @@ Last summer it was very hot to stay without air conditioners. It goes without sa
 
 I called a service center to request a repair of the broken air conditioner. Some days later, service engineers visited my house and diagnosed it for a while and then fixed it in a twinkle of an eye.
 
-They charged $100 for a repair. It was less expensive than exhausted summer life.
+They charged $100 for a repair. It was less expensive than my exhausted summer life.
 
 ## Describe an industry or company in your country that is sought out by college graduate.
 
-Intro: popular CJ
-Body1: flexible organizational culture
-Body2: competitive welfare
-Body3: improve yourself
+- Intro: popular CJ
+- Body1: flexible organizational culture
+- Body2: competitive welfare
+- Body3: success of expansion
 Conclusion : recommendation
 
 I read on the news that CJ became the most wanna-to-go company for college students in South Korea a few year ago. I was very proud of it. As a member of CJ, I’d like to give you some reasons for their preferences.
 
-First of all, CJ has a flexible organizational culture as their prime culture. The culture has spread to the entire companies in CJ Group. Thus the relationship among employees become non-hierarchical. As its positive effect, juniors can fearlessly communicate with their seniors.
+First of all, CJ has a flexible organizational culture as their prime culture. The culture has spread to the entire companies in CJ Group. Thus the relationship among employees become non-hierarchical. As its positive effect, juniors can fearlessly communicate with their seniors. The culture helps new commers to think creatively.
 
-Second of all, CJ offers competitive welfare to its employees. CJ has handled various business fields, so we can get benefits from those fields such as online shopping, foods, cosmetics and so on. we can get discounts up to 40% for those areas.
+Second of all, CJ offers competitive welfare to its employees. CJ has handled various business fields, so we can get benefits  from those fields such as online shopping, foods, cosmetics and so on. we can get a discount up to 40% and also use employy milesage points for those fiedls.
 
-Lastly, Since CJ Group was established in the 1990s, it has been expanding its business areas [such as media contents, domestic logistics, home shopping, and so on] . Most individual companies have archived their successes in their respective fields. You can also experience the sucesses that lead you to your individual success.
+Lastly, Since CJ Group was established in the 1990s, it has been expanding its business areas such as media contents, domestic logistics, home shopping, and so on. Most individual companies have archived their successes in their respective fields. 
 
-In conclusion, I strongly recommend you to join CJ Group as your first company If you are ready to archive your success.
+In conclusion, If you are enthusiatic to archive your success, I strongly recommend you to join CJ Group as your first company.
 
