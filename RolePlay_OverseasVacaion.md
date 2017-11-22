@@ -9,7 +9,7 @@ I’ll arrive at your hotel late at night? I’m afraid I cannot check in the ro
 
 <Sir, just let us know what time you’ll arrive at the hotel >
 
-Yeah... And I’ll be accompanied by 3 members of my family. We might get there on an empty stomach. One of us is my 6 years old daughter. I’d like to look for restaurants that serves food for child. Are there any restaurants nearby open at around 9pm?
+Yeah... And I’ll be accompanied by 3 members of my family. We might get there on an empty stomach. One of us is my 6 years old daughter. I’d like to look for restaurants that serves foods for a child. Are there any restaurants nearby open at around 9pm?
 
 <Yeah, the Japanese restaurant on 1st floor will open until 11pm. ... >
 
@@ -31,7 +31,7 @@ Thank you for your recommendation. I’d like to choose this Toyota’s with ful
 
 < Nope.. It’s free >
 
-Ok, I’m happy to hear that. Actually this is my first time to this country. I can feel comfortable if the GPS is installed in the car. Does the car have it?
+Ok, I’m happy to hear that. Actually this is my first time to this country. I'm wondering if GPS is installed in the car. Does the car have it?
 
 < Yap, It is installed. >
 
