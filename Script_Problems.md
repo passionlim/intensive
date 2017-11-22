@@ -1,7 +1,6 @@
 [Topic] problem / solution
 
-Q1a.
-## Have you had any problems at work? What was the problem, and how did you deal with it?
+## Q1a Have you had any problems at work? What was the problem, and how did you deal with it?
 
 - Intro : Role as Engineer
 - Body1 : severity of system
@@ -19,8 +18,8 @@ Thus we’ve developed some monitoring systems that notify system problems to sy
 
 Finally I can get back my normal life at home and now I don’t need to worry too much. 
 
-Q1b
-## Have you had any problems in your home? What was the problem, and how did you deal with it?
+
+## Q1b Have you had any problems in your home? What was the problem, and how did you deal with it?
 
 Background : rent / permission
 Cause+Problem : air conditioner broken
