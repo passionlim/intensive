@@ -29,5 +29,43 @@ I can remember the trip to Jeju Island with my whole family a couple of years ag
 
 There was a private building with 2 stories. After I got into the building, all things in the house were luxurious. We bought fresh seafood from local market and cooked and enjoyed the dinner with wine and beer. We had talked much during night and then we can know better each other. I think it is an one of the the most luxuirous trips family together in my life.
 
+##  You indicated that you enjoy domestic travel. where do you like to visit? Which do you prefer? Describe the place you like to visit and why you like to go there?
+
+- Intro : Jeju Island
+- Body1 : weather / mild and moderate
+- Body2 : beautiful view 
+- Concl : recommendation
+
+I’d like to go to a beautiful island called Jeju in South Korea. It is located to the south of Korean peninsula. It has been a famous domestic travel spot for Korean. 
+
+First of all, since the weather in Jeju is mild and moderate, it is renowned for various leisure activities. We can enjoy swimming in the ocean and climb up a mountain.
+
+Second of all, there is the tallest mountain in South Korea, called 한라. It has transformed into the mountain of various color according to the season. It goes without saying that the view from up top is absolutely breathtaking.
+
+To sum it up, If you have a change to visit Korea, I strongly recommend you to visit Jeju island and enjoy various leisures and nature.
+
+## People must prepare before they travel. What do you do to prepare for travel? Do you research in advance or make reservations? What special things do you do? Plean describe you preparation in detail.
+
+- Intro : preparation steps 
+- Body 1 : buy flight tickets
+- Body 2 : reservation for accomdation
+- Body 3 : activities for accommodation
+- Conclusion : ruined experience
+
+When I prepare a travel, there are several steps that I usually follow. 
+
+First of all, I definitely start to purchase tickets for transportations such as flight and train. Especially when I need to fly abroad, I have to purchase flight tickets before all. If I don’t do so, there is no alternative to get there. Therefore It’s the most significant step for travel preparation. 
+
+And for a next step, I try to find proper accommodations for a trip. I have no doubt that the satisfaction of travel depends on the quality of accommodations. That’s because I spend most of my time at the hotel or the resort during the travel.
+
+Lastly,  As a next step, I look for the information of activities that I enjoy during my travel. Sometimes I can find big bargains online if I’m lucky or prepare travel early.
+
+To sum up, I experienced to ruin my travel without reservations. From that point on, I make reservations for transportations and accommodations as a first priority.
+
+
+- Go with the vibe
+- Go with the flow
+
+ 
 
 
