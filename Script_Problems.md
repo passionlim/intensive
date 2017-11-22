@@ -8,11 +8,11 @@
 - Body3 : solution
 - Conclusion : happy ending
 
-I’m working as IT engineer in my company. My team are in charge of operating and maintaining commerce systems as stable as possible. My company is a home shopping broadcasting company as well as an e-commerce company. 
+I’m working as IT engineer in my company. My team is in charge of operating and maintaining systems in our company as stable as possible. My company is a home shopping broadcasting company as well as an e-commerce company. 
 
-Most customers have visited our website to purchase products. Plus most employees use the systems to manage products’ details such as stock quantity and product details. Therefore if our system become unstable, It can directly affect our sales and profits. 
+Most customers have visited our website to purchase products. Plus most employees use systems to manage products’ information such as stock quantity and product details. Therefore if our system become unstable, It can directly affect our sales and profits. 
 
-Since joining my company, I’ve experienced system instability several times. It’s very stressful for me to keep my own life comfortable because we don’t know when problems would happen and how serious they are. 
+Since joining my company, I’ve experienced system instability several times. It was very stressful for me to keep my own life comfortable because we don’t know when problems would happen and how serious they are. 
 
 Thus we’ve developed some monitoring systems that notify system problems to system managers. From that point on we can solve problems in advance before they are serious. 
 
