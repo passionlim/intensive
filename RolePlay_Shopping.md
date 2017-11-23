@@ -10,10 +10,15 @@ I bought this smartphone online last year.
 I was surprised how such a product was delivered to me?
 
 ----
-Suggestion
+## Suggestion
 
 First of all, I want to exchange this with unused new one. I kind of am tech savvy. I had been very exited at this smartphone until I received this product. I really wanted to use this model because of its cutting-edge functions. But I can’t use this smartphone in this status.
 
 If it’s not possible, I want to get a refund for this product.
 
 Can you inform me any ways to send this product to you?
+
+----
+## Conclusion
+
+Thank you for your accept for this product exchange. I'll send this product to you right now.
