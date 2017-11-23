@@ -42,11 +42,11 @@ They charged $100 for a repair. It was less expensive than my exhausted summer l
 - Body3: success of expansion
 Conclusion : recommendation
 
-I read on the news that CJ became the most wanna-to-go company for college students in South Korea a few year ago. I was very proud of it. As a member of CJ, I’d like to give you some reasons for their preferences.
+I read on the news that CJ became the most poppular company for college students in South Korea a few years ago. I was very proud of it. As a member of CJ, I’d like to give you some reasons for their preferences.
 
-First of all, CJ has a flexible organizational culture as their prime culture. The culture has spread to the entire companies in CJ Group. Thus the relationship among employees become non-hierarchical. As its positive effect, juniors can fearlessly communicate with their seniors. The culture helps new commers to think creatively.
+First of all, CJ has a flexible organizational culture. The culture has spread to the entire group. Thus the relationship among employees has become non-hierarchical. As for its positive effect, juniors can fearlessly communicate with their seniors. The culture helps new commers to think creatively.
 
-Second of all, CJ offers competitive welfare to its employees. CJ has handled various business fields, so we can get benefits  from those fields such as online shopping, foods, cosmetics and so on. we can get a discount up to 40% and also use employy milesage points for those fiedls.
+Second of all, CJ offers competitive welfare to its employees. CJ has been involved with various business fields, so we can get benefits  from those fields such as online shopping, foods, cosmetics and so on. we can get a discount up to 40% and also use employee milesage points for those fiedls.
 
 Lastly, Since CJ Group was established in the 1990s, it has been expanding its business areas such as media contents, domestic logistics, home shopping, and so on. Most individual companies have archived their successes in their respective fields. 
 
