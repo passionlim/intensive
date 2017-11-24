@@ -9,9 +9,9 @@ According to my shopping pattern, I have two kinds of shopping patterns: offline
 
 When I purchase fresh foods, I usually go to the mart near my apartment. I have experiences that I’ve purchased some vegetables online at emart mall. However I was not satisfied with the freshness of veggies. After that, I go to the mart to buy vegetables and groceries while checking their freshness. 
 
-Except for fresh foods or some groceries that I can buy in the mart, I usually shop online. I search products on the Internet, and I try to compare their prices. Before I purchase, I check out the product reviews that other customers post. Reading help me make an informed decision. 
+Except for fresh foods or some groceries that I can buy in the mart, I usually shop online. I search for products on the Internet, and I try to compare their prices. Before I purchase, I also check out product reviews that other customers post. Reading reviews helps me to make an informed decision. 
 
-To sum up, I consider to buy fresh foods when shopping offline. Except for that, I usually consider the product price and reviews.
+To sum up, I consider to buy fresh foods when shopping offline. Except for that, I usually shop online while considering the product price and reviews.
 
 ## Please tell me about an item you recently bought. When was it, and where did you buy that item? Were you satisfied with the item you bought?
 
