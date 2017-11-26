@@ -12,6 +12,7 @@
 - holiday
 - movie
 - musicals
+- performance
 - time (횟수) : I've visited my parent's house serveral times every year.
 
 ### diseases
