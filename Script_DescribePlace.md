@@ -52,10 +52,10 @@ Cafe
 
 I’d like to go to two cafes called “a twosome place” with my family and with my colleages. The one is located near my apartment and the other is located on a basement in my company.
 
-First of all, my wife and I enjoy sipping flavored hot coffe at the cafe while winding down and sitting on the chair on weekends. My kid also likes to go there to taste a sweet piece of cake. We enjoy that time because we can’t have such a time on weekdays because of busy work. It is the good place to improve our relationship.
+First of all, my wife and I enjoy sipping flavored hot coffe at the cafe while winding down and sitting on the chair on weekends. My kid also likes to go there to taste a sweet piece of cake. We can enjoy that time because we can’t have such a spare time on weekdays because of busy work. I'm pretty sure that it is the good place to improve our relationship.
 
-Second of all, there is an accessible cafe for employees in my company. We also get an additional 10% discount for all menus. Because of its affordable price, I usually go there with my colleagues to have a chat. It is very helpful for our team to know each other and also to improve our teamwork.
+Second of all, there is an accessible cafe for employees in my company. We even get an additional 10% discount for all menus. Because of its affordable price, I usually go there with my colleagues to have a chat. It is very helpful for our team to know each other and also to improve our teamwork.
 
-In conclusion, I’m really enjoying the time at those cafes. It helps to improve a relationship with others. Therefore I strongly recommend to have a time with your close friends and family at cafes.
+In conclusion, I really enjoy the time at those cafes. It helps to improve relationship with others. Therefore I strongly recommend to have time with your close friends and family at cafes.
  
 
