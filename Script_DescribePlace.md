@@ -2,15 +2,15 @@
 
 ## describe Dongyang Creativity Center.( DYCC )
 
-I’m attending intensive English course in DYCC which is located on the outskirts of Ilsan and Seoul. So I was inaccessible by public transportations. However It’s surrounded by small hills and manufacturings, thus It is a good place for me to concentrate on my study. 
+I’m attending intensive English course in DYCC which is located on the outskirts of Ilsan and Seoul. So It is not accessible by public transportations. However It’s surrounded by small hills and some manufaturing builds, thus it is a good place for me to concentrate on my study. 
 
-First of all, the building consists of 3 places that are good for study. There are comfortable and cozy dromitories, making it possible to take a rest comfortably. There are many quite classrooms, making it possible to concentrate on my study. There is a cafeteria which offers well balanced foods which help me to stay healty. 
+First of all, the building consists of 3 places that are good for study. There are comfortable and cozy dromitories, making it possible to take a rest. There are many quiet classrooms, making it possible to concentrate on my study. There is a cafeteria which offers well balanced foods which help me to stay healty. It goes without saying that being healthy is very important to keep my concentration. 
 
 Second of all, there are other convenient facilities that residents can use such as a small gym, a convenience store, a sauna and a pc room. Among them, I usually enjoy a sauna to relieve my stress and a gym to keep my health after dinner.
 
 Lastly, The only thing I’m not satisfied with is a long distance between the classroom and the restroom. It is too long for me to take a enough rest in my 10 minutes break between classes.
 
-In conclusion, even though the building cannot satisfy all residents’ expectations, I’ve been satisfied with facilities in this build. Therefore I strongly recommend this place as your study place.
+In conclusion, even though the building cannot satisfy all residents’ expectations, I’ve been satisfied with facilities in this building. Therefore I strongly recommend this place as your study place.
 
 ## Describe the place you live
 
@@ -19,11 +19,11 @@ In conclusion, even though the building cannot satisfy all residents’ expectat
 - Dining table ( berrak obama / family time )
 - Comforatble house
 
-I’m living in the apartment which is located in the western Pangyo district on the outskirts of Seoul. I like this town because it’s surrounded by beautiful mountains and it has a lot of convenient neighborhood. 
+I’m living in the apartment which is located in the western Pangyo district on the outskirts of Seoul. I like this town because it’s surrounded by beautiful mountains and it has convenient facilities such as a public library and a sports center . 
 
-First of all, the first time you come into my house, you can see the living room in the middle of my apartment, in which my family spends most of our time. There are a couple of bookshelves with many books for my child and comfortable couch on which we can sit while watching TV.
+First of all, the first time you come into my house, you can see the living room in the middle of my apartment, in which my family spends most of our time. There are a couple of bookshelves with my kids books in the corner and there is a comfortable couch on which we can sit while watching TV. It goes with saying that the living room is the most entertaining place for our family.
 
-Second of all, the kitchen and the living room are connected and there is a dining table that we enjoy our meals at between them. I like that table. According to Berrak Obama’s saying, having dinner together with his family is as important as his duty as a president.  So I’m trying to have meals with my family on weekends as frequent as possible. I’m pretty sure that it can improve our relationship.
+Second of all, the kitchen and the living room are connected and there is a dining table at which we enjoy our meals between them. I like that table. According to Berrak Obama’s saying, having dinner together with his family is as important as his duty as a president. I totally agree with him. So I’m trying to have meals with my family on weekends as frequent as possible. I’m pretty sure that it can improve our relationship.
 
 In conclusion, I’m fortunate to stay at such a comfortable house with my family together.
 
