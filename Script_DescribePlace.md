@@ -35,11 +35,11 @@ In conclusion, I’m fortunate to stay at such a comfortable house with my famil
 
 I moved into my apartment 3 years ago. As that point on, I’ve been satisfied with my neighborhood and convenient facilities nearby.
 
-First of all, a certain area in my town is renowned for fancy restaurants and bars. They are actually introduced on some magazines. Sometimes flee markets are voluteerly held by neighbors. Thus on weekends, it is always crowed with visitors from other town.
+First of all, a certain area in my town is renowned for fancy restaurants and bars. They have actually been introduced on some magazines and blogs serveral times. Sometimes flee markets are voluteerly held by neighbors. Thus on weekends, it is always crowed with visitors from other town.
 
 Second of all, as for convenient facilities for residents, there is a library and a sports center in center of the town. I sometimes go there to read books with my kid and to enjoy swimming together. Behind the library, there is a tall mountain where we usually go on a picnic to make memories.
 
-However, even though my town is great place to live, the real estate price is getting more expansive these days. So I’m worried about my rental contract next year.
+However, even though my town is great place to live, the real estate price is getting more expansive these days. So I’m worried about my rental contract next year. and also I'm trying to save up as mush as possible to keep my life style here.
 
 ## Q4 Describe the park/cafe/bar you often visit ( choose 1 partner/individual) introduce explain thought process of speech in front of class + everyone gives at least 1 comments ( vocab, sentence, grammar feedback, structure, questions ) to the speak. 
 
