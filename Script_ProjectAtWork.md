@@ -23,11 +23,11 @@ In conclusion, in our future, the present look of computers would become various
 - Lack of resources
 - Success end of project
 
-Our company had had problems in our infra system for several years because of lack of investments. when user’s traffic went up to peak time, our systems went down every day. To solve this, the IT division in our company had to consider a new project to refine our system. Finally the renewal project started from  last year.
+Our company had faced problems in our infra system for several years because of a lack of investment. When user’s traffic went up to ㅁ peak, our systems went down every day. To solve this, the IT division in our company had to consider a new project to refine our system. Finally the renewal project started from last year.
 
-In that project, I was put in charge of developing programs for some parts of our system and deciding an architecture for our new system. Because the system was much out-of-date, there were too many points to modify. So I analyzed the trends and issues for our new system as well as reached out to our business experts who could suggest solutions.
+In that project, I was put in charge of developing programs for some parts of our system and deciding an architecture for our new system. Because the system was too out-of-date, there were so many points to modify. Thus I analyzed the trends and issues for our new system as well as reached out to our business experts who could suggest solutions.
 
-During the project, even though everyone in our division was determined to put their effort into the project, we faced a lack of human resource. To reduce the risk, we recruited some engineers and made contracts with expertise companies that can handle other parts of my system. Fortunately, everything went according to plan.
+During the project, even though everyone in our division was determined to put their effort into the project, we faced a lack of human resources. To reduce the risk, we recruited some engineers and made contracts with expertise companies that can cover other parts of our system. Fortunately, everything went according to plan.
 
 After all, we successfully finished our project on time. After I watched the system runing without any problems, I let out a sigh of relief. The most important lesson that I learned from the project is that hard work pays off. 
 
