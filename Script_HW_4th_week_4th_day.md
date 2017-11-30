@@ -11,12 +11,32 @@ ex) When it comes to smartphones, they are having a profound effects on our soci
 **get A from B** / **vicarious experience**  
 ex) My daughter get vicarious experience from watching kids toy videos.
 
-Let me introduce ~~their~~ its changes  
+Let me introduce ~~their~~ **its** changes  
 ex) Since the computer industry has drastically changed over a couple of decades, we can easily experience its changes around us.
 
-have come to enjoy  
+**have come to enjoy**  
 ex) Ever since franchise coffee came into our lives, we **have come to enjoy** various types of coffee and beverages nearby.  
 ex) Ever since smartphones came into our lives, we **have come to enjoy** their convenient functions such as surfing the Internet, taking a photo and so on.  
+
+~~present look~~ **current appearance** of computer  
+ex) the current appearance of cellphones is totally different from the past one.
+
+~~have a trip with my family~~ **go on a family vacation**  
+ex) I planned to **go on a family vacation** overseas after this course.
+
+bicycle**s**
+ex) **bicycles** are most convenient transpotation means for people commutting.  
+ex) we can search for prices of bycycles on used market communites.
+
+**we spent time ~ing**
+ex) we spent exiting time throwing peddle into the creek.
+
+I had(=got) 9 day off **from work**  
+ex) I got 5 days off from work as a compensation for the success of the project.
+
+maintain--health / stay--shape  
+ex) After dinner, I go to the gym not only to **maintain my health** but also to **stay in my shape**.
+
 
 ## Tell about a time when someone was angry with you. 
 
