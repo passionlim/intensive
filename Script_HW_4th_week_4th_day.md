@@ -2,16 +2,21 @@
 
 ## Grammar errors note-taking
 
-understandable => comprehensible
+understandable => comprehensible  
 ex) Articles that he wrote on his blog was comprehensible to mass public, even elementary students.
 
-this change is having a **profound effect on** our lives.
+this change is having a **profound effect on** our lives.  
 ex) When it comes to smartphones, they are having a profound effects on our society.
 
-**get A from B** / **vicarious experience**
+**get A from B** / **vicarious experience**  
 ex) My daughter get vicarious experience from watching kids toy videos.
 
+Let me introduce ~~their~~ its changes  
+ex) Since the computer industry has drastically changed over a couple of decades, we can easily experience its changes around us.
 
+have come to enjoy  
+ex) Ever since franchise coffee came into our lives, we **have come to enjoy** various types of coffee and beverages nearby.  
+ex) Ever since smartphones came into our lives, we **have come to enjoy** their convenient functions such as surfing the Internet, taking a photo and so on.  
 
 ## Tell about a time when someone was angry with you. 
 
