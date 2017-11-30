@@ -54,14 +54,14 @@ After all, to prevent the argument from getting worse, I went out to throw out  
 some days later, I told my wife how to process house chores without argument. I promised I would volunteerly help her with our house chores and ask her not to yell at me but to let me know if she wants to help. I learned from this experience that it is impossible to prevent misunderstanding in advance, but it is possible to resolve misunderstanding later.
 
 
-억울하다. : 
-실망하다: be disappointed
-부부 : couple
-기준 : criteria
-평소처럼 : as usual
-불평하다 : complain
-화해시키다 : reconcile
-변명하다. : give sb an excuse
+- 억울하다. : 
+- 실망하다: be disappointed
+- 부부 : couple
+- 기준 : criteria
+- 평소처럼 : as usual
+- 불평하다 : complain
+- 화해시키다 : reconcile
+- 변명하다. : give sb an excuse
 
 ## make a story using the phrases from given articles.
 
@@ -87,4 +87,4 @@ Though this course, I expected to be the beneficiary of this course as I would g
 Even though he spent more time than he had intended on, I was not able to break though my limit yet. However I’ve necessarily trust his feedback that I’ve been improving.
 
 
-실력있는 : competence 
+- 실력있는 : competence 
