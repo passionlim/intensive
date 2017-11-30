@@ -24,14 +24,14 @@ ex) the current appearance of cellphones is totally different from the past one.
 ~~have a trip with my family~~ **go on a family vacation**  
 ex) I planned to **go on a family vacation** overseas after this course.
 
-bicycle**s**
+bicycle**s**  
 ex) **bicycles** are most convenient transpotation means for people commutting.  
-ex) we can search for prices of bycycles on used market communites.
+ex) we can search for prices of **bicycles** on used market communites.
 
-**we spent time ~ing**
-ex) we spent exiting time throwing peddle into the creek.
+**we spent time ~ing**  
+ex) we spent exciting time throwing pebble into the creek.
 
-I had(=got) 9 day off **from work**  
+I had(=got) 9 day off **from work**   
 ex) I got 5 days off from work as a compensation for the success of the project.
 
 maintain--health / stay--shape  
@@ -51,7 +51,7 @@ One day, it was a peaceful weekend in my house. I was surfing the Internet and m
 
 After all, to prevent the argument from getting worse, I went out to throw out  garbage and to recycle materials. And then I tried to talk about why she was upset. She complaint that she seemed to be the only person who had done house chores. Actually, we didn’t decide how to divide our chores. Even though I did the house chores several times by myself, I didn’t want the argument more serious. I expressed my sorry for her and tried to reconcile with my wife. 
 
-some days later, I told my wife how to process house chores without argument. I promised I would volunteerly help her with our house chores and ask her not to yell at me but to let me know if she wants to help. I learned from this experience that it is impossible to prevent misunderstanding in advance, but it is possible to resolve misunderstanding later.
+some days later, I told my wife how to take care of house chores without argument. I promised I would volunteerly help her with our house chores and ask her not to yell at me but to let me know if she wants to help. I learned from this experience that it is impossible to prevent misunderstanding in advance, but it is possible to resolve misunderstanding later.
 
 
 - 억울하다. : 
