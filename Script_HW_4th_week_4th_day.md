@@ -2,6 +2,16 @@
 
 ## Grammar errors note-taking
 
+understandable => comprehensible
+ex) Articles that he wrote on his blog was comprehensible to mass public, even elementary students.
+
+this change is having a **profound effect on** our lives.
+ex) When it comes to smartphones, they are having a profound effects on our society.
+
+**get A from B** / **vicarious experience**
+ex) My daughter get vicarious experience from watching kids toy videos.
+
+
 
 ## Tell about a time when someone was angry with you. 
 
