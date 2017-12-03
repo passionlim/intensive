@@ -47,17 +47,15 @@ To sum it up, after the trip we must work out harder to stay in our shapes.
 - Body1: materials
 - Body2: systematic designated area
 - Body3: environment concerns
-- Conclusion: 
+- Conclusion: recycling culture
 
 
-Around 20 years ago, I was not the kind of person who is related to recycling. However now, I have to recycle various materials as my house chore. What happened in my recycling life? 
+Around 20 years ago, I was not the kind of person who is related to recycling. However now, I have to recycle various materials as my house chore. What happened to me living in South Korea? Let me talk about it.
 
-Korea is renowned for recycling in the world. As for the U.S, 
+First of all, In the past, Korean didn't use to be interested in recycling. We just threw out all garbages including plastics , cans, and food wastes except for empty glass bottles. Because I returned coke bottles to a supermarket to replace them with candies. But now, Since govermnent implemented recycling regulations, the mass public has followed them well. So as a model citizen, I collect recyclable materials into each recycle bin and throw them out periodically.
 
-First of all, Korean didn't use to be interested in recycling. In the past, we just throw out all garbages including plastics , cans, and food wastes except for empty glass bottles. Because I returned coke bottles to a supermarket to replace them with candies. But now, Since govermnent implemented recycling regulations, the mass public has followed them well. So as a model citizen, I collect recyclable materials into each recycle bin and throw them out.
+Second of all, we did't have any areas related to recycling in our neiborhoods. However now, we have to throw out recyclables to the designated areas. Korea government has designated recycling areas troughout the country, finally we can collect a lot of recycleable resources in a systematic way.
 
-Second of all, we did't have any area related to recycling in our neiborhoods. However now, we have to throw out recyclables to the designated areas. Korea government has designated recycling areas troughout the country, finally we can collect a lot of recycleable resources in a systematic way.
-
-Lastly, there were garbage disposable areas near Seoul but people had no idea about the limit of them. Since the lack of the disposable area, people were worried about it. They didn't want their neighborhoods to become the new area. From that point on, people have been interested in our environments and recycling. 
+Lastly, there were garbage disposable areas near Seoul but people had no idea about the limit of them. Since the lack of the disposable area, people were worried about it. They didn't want their neighborhoods to become the new area. From that point on, to reduce garbage disposal areas, people have been interested in our environments and recycling. 
 
 In conclusion, we've developed our recycling culture in a systemtic and environmental way. In contract to the other developed coutries, I'm very proud of having such a great recycling culture in my country.
