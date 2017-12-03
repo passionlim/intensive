@@ -21,4 +21,15 @@ He was ~ing while mindlessly ~~watching~~ **looking at** his smartphone.
 Ex) It’s very dangerous to walk on a street while **looking at** smartphones.
 
 
+## You are opening a new international restaurant. Plan the menu.
+## Plan a one-week trip. You have $500 to spend (per person).
+## Make nicknames or English naes for each student in this class. Explain your reasons.
+## Make a list of the most important characteristics of a husband or a wife. Put the most important first, etc.
+## Plan a interesting activity to do together this week.
+## Make a list of the characteristics of a good teacher. Put the most important first, etc.
+## Make a list of the ways that we can improve the world.
+
+## desribe changes in your country for recycling.
+
+
 
