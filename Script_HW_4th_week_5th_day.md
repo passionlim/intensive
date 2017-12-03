@@ -23,6 +23,18 @@ Ex) It’s very dangerous to walk on a street while **looking at** smartphones.
 
 ## You are opening a new international restaurant. Plan the menu.
 ## Plan a one-week trip. You have $500 to spend (per person).
+## Plan a one-week trip. You have $500 to spend (per person).
+
+If I had a $500 budget for a person, I would like to go to Osaka in Japan again. Especially this time, I'd like to go on a vacation with 3 of my family. 
+
+First of all, I could get the cheapest ticket for a round trip flight at $100 per a person if I left on week days or I gained early bird bargins. However, I have to do a lot of research for flight promotions.
+
+Second of all, I'd like to reserve the most luxurious rooms during the vacation within $350 per a day. My company supports an attractive welfare for overseas hotels. Thus I just have to pay $60 a day. Everything else is covered by the company's welfare.
+
+Third of all, I'm still having a half of the budget, $740. In fact, I'm not quite interested in trourist places. I'd like to enjoy local foods when I visit foreign countries. Osaka, adjecant to the sea, is renouwed for its local delicacies, such as Takoyaki, ramen, and sushi. I would spend most budgets to enjoy those foods. 
+
+To sum it up, after the trip we must work out harder to stay in our shapes. 
+
 ## Make nicknames or English naes for each student in this class. Explain your reasons.
 ## Make a list of the most important characteristics of a husband or a wife. Put the most important first, etc.
 ## Plan a interesting activity to do together this week.
