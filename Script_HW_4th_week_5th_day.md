@@ -58,4 +58,4 @@ Second of all, we did't have any areas related to recycling in our neiborhoods. 
 
 Lastly, there were garbage disposable areas near Seoul but people had no idea about the limit of them. Since the lack of the disposable area, people were worried about it. They didn't want their neighborhoods to become the new area. From that point on, to reduce garbage disposal areas, people have been interested in our environments and recycling. 
 
-In conclusion, we've developed our recycling culture in a systemtic and environmental way. In contract to the other developed coutries, I'm very proud of having such a great recycling culture in my country.
+In conclusion, we've developed our recycling culture in a systematic and environmental way. In contract to the other developed countries, I'm very proud of having such a great recycling culture in my country.
