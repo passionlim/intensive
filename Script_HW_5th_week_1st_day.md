@@ -15,7 +15,7 @@ Ex) His grandma is **supporting him** playing a violin competently. And she has 
 Osaka, **adjacent** to the sea, is **renowned** for its local delicacies.  
 Ex) Kang-Reung, **adjacent to** the sea and tall mountains, is **renowned** for various leisure activities.
 
-I would spend most ~~of~~ budget~~s~~ to enjoy those foods.  
+I would spend most **of** budget~~s~~ to enjoy those foods.  
 Ex) I invested in stocks with **some of my intuition** for next semester, unknown to my parents, but I lost some. I really felt sorry for my parents. I had no idea how to solve this problem.
 
 After the trip, we must work out harder to stay in ~~our~~ shape~~s~~.   
