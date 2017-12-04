@@ -116,4 +116,4 @@ location
 	Ann) Ok. I’m excited about it.
 
 ### Conclusion
-	Susan) I’m also excited to spend a time with you tomorrow. Let’s catch up our things.
+	Susan) I’m also excited to spend time with you tomorrow. Let’s catch up our things.
