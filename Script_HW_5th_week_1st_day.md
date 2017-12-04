@@ -117,3 +117,26 @@ location
 
 ### Conclusion
 	Susan) I’m also excited to spend time with you tomorrow. Let’s catch up our things.
+
+
+
+
+
+## Question Type : Comparison 비교하기
+
+Question: Compare your neighborhood when you were growing up to how it is today. What has changed from the past? Please describe the differences in detail.
+
+
+Even though I don’t live in a neighborhood where I grew up, there are some differences between my previous neighborhood and my current neighborhood. 
+
+When I was young, my neighborhood was quite. Apartments that most people lived in just have 3 to 4 stories. There was a small playground where children played after school and, there was a big church. Even though there were no big marts within a walking distance , there were various local stores and merchandisers who sold furniture and home gadgets.
+
+Meanwhile, these days my neighborhood become busy. Highrise buildings built in a modern style have replaced old buildings and some big supermarkets have opened recently nearby. In addition, since young people in their twenties move into the neighborhood, the mood in the neighborhood has totally changed. For an example, Many stores in the neighborhood are cafes and franchise restaurants.
+
+## Question Type: speaking according to the timeline.
+
+Question: I’d like to know what you usually do when you go to the movies. What do you do before and after the movie? Describe a typical day when you visit the cinema from the beginning to end. 
+
+When I visit a theater, I start to call Jiho. After then, we choose a theater and make a reservation for a movie. Because we normally have free time before the movie start, so we have a chat while drinking coffee. Before entering, we don’t forget to buy pop corn and beverages. Of course, we focus on the movie eating the snack. After the movie ends, we go to a close park to the theater to talk about the movie like what makes it interesting.
+
+I’d like to go to the movies because I can enjoy movies as well as improve our relationship while talking to each other.
