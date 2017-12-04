@@ -37,7 +37,7 @@ background explanation
 
 	C) I’d like to make a reservation for tonight dinner. Beforehand, I have some questions.   
 	Em) What would you like to question?   
-	C) I’m accommpanied with 3 persons. 2 of us are adult males and 2 are ladies.  I’d like to have seats near window where we can enjoy night scenery because one of my friend will leave this town next week. So I’d like to make our dinner as a memorable time.   
+	C) I’m accommpanied by 3 persons. 2 of us are adult males and 2 are ladies.  I’d like to have seats near window where we can enjoy night scenery because one of my friend will leave this town next week. So I’d like to make our dinner as a memorable time.   
  
 ### Suggestions
 ---- 
