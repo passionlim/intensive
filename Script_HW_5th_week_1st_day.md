@@ -2,7 +2,7 @@
 
 I’d like to go on vacation with ~~3 members of~~ my family **which consists of 3 members**.  
 B/c 가족 전체 인원수를 나타내지 못함.  
-Ex) Our team plans to go on a training trip to Guam with all members of the team which consist of 20 members. 
+Ex) Our team plans to go on a training trip to Guam with all members of the team **which consists of 20 members**. 
 
 $350 per ~~a~~ person.  
 I ~~could~~ **would be able** to get the cheapest ticket for a round trip flight at $100 per ~~a~~ person, if ~~left~~ **leave** on **the** week days or if I ~~gained~~ **gain** early bird bargains.  
