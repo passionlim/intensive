@@ -29,8 +29,8 @@ Ex) There is no easy way to easily **stay in shape**. However, if you can keep u
 ----
 greeting  
 
-	C) Hello~ is this the French Chef?
-	Em) What can I do for you, sir?
+> C) Hello~ is this the French Chef?
+> Em) What can I do for you, sir?
 
 ----
 background explanation
