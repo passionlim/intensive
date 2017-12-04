@@ -6,7 +6,7 @@ Ex) Our team plans to go on a training trip to Guam with all members of the team
 
 $350 per ~~a~~ person.  
 I ~~could~~ **would be able** to get the cheapest ticket for a round trip flight at $100 per ~~a~~ person, if ~~left~~ **leave** on **the** week days or if I ~~gained~~ **gain** early bird bargains.  
-Ex) When I went to the Seoul Land with my family, I purchased a one day pass online **at $15 per person**. But I would enjoy my time if the wether **were** warm. It was too cold to walk around in the amusement park. So I promised with my daughter to come again next month. If the weather **is** good, we **will have** more great time.
+Ex) When I went to the Seoul Land with my family, I purchased a one day pass online **at $15 per person**. But I would enjoy my time if the wether **were** warm. It was too cold to walk around in the amusement park. So I promised my daughter to come again next month. If the weather **is** good, we **will have** more great time.
 
 My company ~~supports~~ **offers** an attractive ~~welfare~~ **discount** for overseas hotels.   
 Ex) His grandma is **supporting him** playing a violin competently. And she has **offered various private lessons** for him since he was 7. 
