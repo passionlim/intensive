@@ -136,6 +136,15 @@ To sum it up, even though I somtimes reminisce my old neighborhood, I'm satisfie
 
 Question: I’d like to know what you usually do when you go to the movies. What do you do before and after the movie? Describe a typical day when you visit the cinema from the beginning to end. 
 
-When I visit a theater, I start to call Jiho. After then, we choose a theater and make a reservation for a movie. Because we normally have free time before the movie start, so we have a chat while drinking coffee. Before entering, we don’t forget to buy pop corn and beverages. Of course, we focus on the movie eating the snack. After the movie ends, we go to a close park to the theater to talk about the movie like what makes it interesting.
+When I visit **the** theater, I start to call Jiho. After then, we choose a theater and make a reservation for a movie. Because we normally have free time before the movie starts, so we have a chat while drinking coffee. Before entering **the movie**, we don’t forget **to stop by a store** to buy pop corn and beverages. Of course, **during the movie**, we focus on the movie eating the snack. After the movie ends, we go to a close park to the theater to talk about **some interesting points in the movie**.
 
 I’d like to go to the movies because I can enjoy movies as well as improve our relationship while talking to each other.
+
+
+Body)
+The day when I visit the cinema begins with calling up Jiho. Then, we select/choose a theater and reserve tickets. We usually have some free time before the movie starts, so we chat with each other while having coffee. We never forget to stop by a concession stand to buy popcorn and beverages before entering the theater. Of course, during the movie(during show time), we just focus on the show while eating our snacks. After the movie ends, we visit the near park to talk about some interesting parts in the movie. 
+
+Conc)
+We can not only enjoy the movie but also work on ( improve ) our relationship.
+
+
