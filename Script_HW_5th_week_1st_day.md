@@ -124,11 +124,13 @@ location
 Question: Compare your neighborhood when you were growing up to how it is today. What has changed from the past? Please describe the differences in detail.  
 
 
-Even though I don’t live in a neighborhood where I grew up, there are some differences between my previous neighborhood and my current neighborhood. 
+Even though I don’t live in the neighborhood where I grew up, there are some differences between my previous neighborhood and my current neighborhood. 
 
-When I was young, my neighborhood was quite. The apartments that most people lived in just were 3 to 4 stories high. There was a small playground where children played after school and, a large church. Even though there were no big marts within a walking distance , there were various local stores and merchandisers who sold furniture and home gadgets.
+When I was young, my neighborhood was quiet. The apartments where most people lived just were 3 to 4 stories high. There was a small playground where children played after school and, a large church. Even though there weren't any big marts within walking distance and there were various local stores that sold furniture and household items.
 
-Meanwhile, these days my neighborhood become busy. Highrise buildings built in a modern style have replaced old buildings and some big supermarkets have opened recently nearby. In addition, since many twenties move into the neighborhood, the mood in the neighborhood has totally changed. For an example, Many stores in the neighborhood are cafes and franchise restaurants.
+Meanwhile, these days my neighborhood has become much busier. Modern high rise buildings have replaced old buildings and some big supermarket chains have opened up nearby. In addition, since people in their 20's have moved into the neighborhood, this has changed the atmosphere significantly. For an example, many stores in the neighborhood are cafes and franchise restaurants.
+
+To sum it up, even though I somtimes reminisce my old neighborhood, I'm satisfied with the convenient current neighborhood.
 
 ## Question Type: speaking according to the timeline.
 
