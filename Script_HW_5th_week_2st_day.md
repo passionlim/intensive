@@ -3,31 +3,25 @@
 ## mistakes
 
 Similar **(to/with)**
-
-	Developing programs was regarded **similar with** constructing buildings. But Since the IT technology has been enhancing, the software development has been considered totally different from the building construction.
+- Developing programs was regarded **similar with** constructing buildings. But Since the IT technology has been enhancing, the software development has been considered totally different from the building construction.
 
 Have an effect on + O / affect + O
-
-	How long you study doesn’t have effect on your English improvement. How to effectively study affects the improvement.
-	This template and strategy would affect your speech time to be reduced.
-	Even though his budget-conscious personality hasn’t never affected the impulsive purchase of her wife, however  
+- How long you study doesn’t have effect on your English improvement. How to effectively study affects the improvement.
+- This template and strategy would affect your speech time to be reduced.
+- Even though his budget-conscious personality hasn’t never affected the impulsive purchase of her wife, however  
 
 As time ~~goes~~ **went** by
-
-	(과거에 일어나 시간이 지난 것을 묘사하는 경우 과거형으로 사용 )
-	I bought a computer when I entered a college. But **as time went by**, the computer had been worn down and then now it has been broken down. 
+- (과거에 일어나 시간이 지난 것을 묘사하는 경우 과거형으로 사용 )
+- I bought a computer when I entered a college. But **as time went by**, the computer had been worn down and then now it has been broken down. 
 
 In the past / in the future. 
-
-	Even though, the AI technology had been considered useless **in the past**, now it has become the new trend in the IT industry. We would face many home appliances using the technology **in the near future**. 
+- Even though, the AI technology had been considered useless **in the past**, now it has become the new trend in the IT industry. We would face many home appliances using the technology **in the near future**. 
 
 that was the start of ~~my music tastes~~ **my music journey**.
-
-	The first time I played computer games, I was fascinated **by** computers. It was **the start of my computer geek journey**.
+- The first time I played computer games, I was fascinated **by** computers. It was **the start of my computer geek journey**.
 
 Visited ~~to~~ theaters.
-
-	I planed to visit my parents’ house during last Thanksgiving holiday. However I wasn’t able to make it because my kid was sick.
+- I planed to visit my parents’ house during last Thanksgiving holiday. However I wasn’t able to make it because my kid was sick.
 		
 	
 ## difficult grammar ( A/The and singluar/plural )
