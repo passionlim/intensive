@@ -101,7 +101,7 @@ movie taste
 time
 
 > Susan) There are a lot of time slots for Avengers. Let’s go around 7pm after dinner.  
-> Ann) Yeap, sounds good. Is there any close restaurants affiliated with tickets?  
+> Ann) Yeap, sounds good. Are there any close restaurants affiliated with tickets?  
 
 ---- 
 dinner
