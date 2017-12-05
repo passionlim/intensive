@@ -37,14 +37,14 @@ background explanation
 
 > C) I’d like to make a reservation for tonight dinner. but, I have some questions beforehand.    
 > Em) Sure, go ahead, please.     
-> C) I’m accommpanied by 3 persons. 2 ladies and 2 gentlemen, total.  I’d like to have seats near the window where we can enjoy night scenery because one of my friend will leave this town next week. So I’d like to leave a good memory behind.
+> C) I’m accommpanied by 3 persons. 2 ladies and 2 gentlemen, total.  I’d like to have seats near the window where we can enjoy night scenery because one of my friend will leave this town next week. So I’d like to leave a good memory behind.  
  
 ### Suggestions
 ---- 
 availability for seats
 
-> C) Is it possible to reserve such a table?
-> Em) Yes, sir. We have available seats for you. What time will you arrive here?  
+> C) Is it possible to reserve such a table?  
+> Em) Yes, sir. We have available seats for you. What time will you arrive here?   
 
 ----
 time
@@ -61,13 +61,13 @@ A parking lot
 ---- 
 today’s menu and price  
 
-> C) Would you recommend dishes for us? And also I’d like to order a bottle of wine with the meal. Would you recommend any wine to go with our dishes?
+> C) Would you recommend dishes for us? And also I’d like to order a bottle of wine with the meal. Would you recommend any wine to go with our dishes?  
 > Em) We have the today’s special. For today, we offer grilled fish as our main dish. As for wine, we have house wine at a reasonable price.  
-> C) ok. Would you reserve the table for us then? 
-> Em) Yeap. You are on the list.  
+> C) ok. Would you reserve the table for us then?  
+> Em) Yeap. You are on the list.   
 		
 ### Conclusion
-> C) Thank you for your kindness. Your kindness makes our dinner all the more special.  
+> C) Thank you for your kindness. Your kindness makes our dinner all the more special.   
 
 
 
@@ -80,14 +80,14 @@ greeting
 
 > Susan) Hello~ is this Ann?  
 > Ann) Yeah. You must be Susan.  
-> Susan) Can you talk for a bit? 
-> Ann) Sure. What’s up?  
+> Susan) Can you talk for a bit?  
+> Ann) Sure. What’s up?   
 
 ----
 Intro
 
-> Susan) Actually, I got two free movie tickets from my boss. I wish you would go with me. It has been a long time since we hung out together.  
-> Ann) OK. Sounds great!! What kind of movies do you like to watch? 
+> Susan) Actually, I got two free movie tickets from my boss. I wish you would go with me. It has been a long time since we hung out together.   
+> Ann) OK. Sounds great!! What kind of movies do you like to watch?   
 
 ### Suggestions
 
@@ -107,7 +107,7 @@ time
 dinner
 
 > Susan) I’m not sure. But I have a membership card for the theater. Let’t go and figure it out.  
-> Ann) Sure. Do you know how to get there?
+> Ann) Sure. Do you know how to get there?  
 
 ----
 location
@@ -116,12 +116,12 @@ location
 > Ann) Ok. I’m excited about it.  
 
 ### Conclusion
-> Susan) I’m also excited to spend time with you tomorrow. Let’s catch up.  
+> Susan) I’m also excited to spend time with you tomorrow. Let’s catch up.   
 
 
 ## Question Type : Comparison 비교하기
 
-Question: Compare your neighborhood when you were growing up to how it is today. What has changed from the past? Please describe the differences in detail.
+Question: Compare your neighborhood when you were growing up to how it is today. What has changed from the past? Please describe the differences in detail.  
 
 
 Even though I don’t live in a neighborhood where I grew up, there are some differences between my previous neighborhood and my current neighborhood. 
