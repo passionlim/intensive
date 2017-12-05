@@ -1,6 +1,6 @@
 [Grammar HW] 2017.12.05
 
-## mistakes
+## grammatic mistakes
 
 Similar **(to/with)**
 - Developing computer programs was regarded **similar to** constructing buildings. But Since the IT technology has enhanced, the software development has been considered totally **different from** the building construction.
