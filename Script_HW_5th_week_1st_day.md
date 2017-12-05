@@ -128,7 +128,7 @@ Even though I don’t live in a neighborhood where I grew up, there are some dif
 
 When I was young, my neighborhood was quite. Apartments that most people lived in just have 3 to 4 stories. There was a small playground where children played after school and, there was a big church. Even though there were no big marts within a walking distance , there were various local stores and merchandisers who sold furniture and home gadgets.
 
-Meanwhile, these days my neighborhood become busy. Highrise buildings built in a modern style have replaced old buildings and some big supermarkets have opened recently nearby. In addition, since young people in their twenties move into the neighborhood, the mood in the neighborhood has totally changed. For an example, Many stores in the neighborhood are cafes and franchise restaurants.
+Meanwhile, these days my neighborhood become busy. Highrise buildings built in a modern style have replaced old buildings and some big supermarkets have opened recently nearby. In addition, since many twenties move into the neighborhood, the mood in the neighborhood has totally changed. For an example, Many stores in the neighborhood are cafes and franchise restaurants.
 
 ## Question Type: speaking according to the timeline.
 
