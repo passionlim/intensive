@@ -26,13 +26,13 @@ Visited ~~to~~ theaters.
 	
 ## difficult grammar ( A/The and singluar/plural )
 
-	Among various **IT technologies**, **the big-data technology** was famous in **the IT industry**, but nowadays **the AI technology** has developed a reputation for its convenience.
+- Among various **IT technologies**, **the big-data technology** was famous in **the IT industry**, but nowadays **the AI technology** has developed a reputation for its convenience.
 
-	My friend and his wife had lead a rich life by his parent’s support. But he had not been interested in his familty. After all he become bankrupt because of **the impulsive consumption of his family**.
+- My friend and his wife had lead a rich life by his parent’s support. But he had not been interested in his familty. After all he become bankrupt because of **the impulsive consumption of his family**.
 
-	I have bucket list on witch I want to do with my kid before she become adolescent. One of them is going to **a top** of **a mountain** in South Korea together. So I plan to climb up onto **the top** of Hanla mountain in several years.
+- I have bucket list on witch I want to do with my kid before she become adolescent. One of them is going to **a top** of **a mountain** in South Korea together. So I plan to climb up onto **the top** of Hanla mountain in several years.
 
-	When I bought **a computer** that was famous at that time, I was excited because I was able to play **the computer games** that was listed on game charts at home. But I had to buy **a laptop** that was useful for my reports. I had used the laptop for a long time. In addition I also recall **the used laptop** that I bought from my friend. It is **the favorite one** among **computers** that I’ve used.
+- When I bought **a computer** that was famous at that time, I was excited because I was able to play **the computer games** that was listed on game charts at home. But I had to buy **a laptop** that was useful for my reports. I had used the laptop for a long time. In addition I also recall **the used laptop** that I bought from my friend. It is **the favorite one** among **computers** that I’ve used.
 
 
 ## Have you experienced a problem while traveling? What was the problem, and how did you deal with it? 
