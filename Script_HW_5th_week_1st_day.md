@@ -30,44 +30,44 @@ Ex) There is no easy way to easily **stay in shape**. However, if you can keep u
 greeting  
 
 > C) Hello~ is this the French Chef?  
-> Em) What can I do for you, sir?
+> Em) Yes, would like to make a reservation?  
 
 ----
 background explanation
 
-> C) I’d like to make a reservation for tonight dinner. Beforehand, I have some questions.    
-> Em) What would you like to question?     
-> C) I’m accommpanied by 3 persons. 2 of us are adult males and 2 are ladies.  I’d like to have seats near window where we can enjoy night scenery because one of my friend will leave this town next week. So I’d like to make our dinner as a memorable time.  
+> C) I’d like to make a reservation for tonight dinner. but, I have some questions beforehand.    
+> Em) Sure, go ahead, please.     
+> C) I’m accommpanied by 3 persons. 2 ladies and 2 gentlemen, total.  I’d like to have seats near the window where we can enjoy night scenery because one of my friend will leave this town next week. So I’d like to leave a good memory behind.
  
 ### Suggestions
 ---- 
 availability for seats
 
-> C) Would I make a reservation for those seats?  
-> Em) Yeap, sir. We have available seats for you. What time would you arrive here?  
+> C) Is it possible to reserve such a table?
+> Em) Yes, sir. We have available seats for you. What time will you arrive here?  
 
 ----
 time
 
 > C) We will get there at around 7pm.  
-> Em) Are you coming by your car?  
+> Em) Are you coming by car?  
 
 ----
 A parking lot
 
 > C) We’ll take 2 cars. So I want to make sure that parking is available.  
-> Em) Yes, sir. We have specious parking lots. We also offer a valet parking service.  
+> Em) Yes, sir. We have specious parking lots. We also offer valet parking service.  
 
 ---- 
 today’s menu and price  
 
-> C) Would you recommend nice dishes for us? And also I’d like to order a bottle of wine with the meal. Would you recommend suitable wine for dishes though?  
-> Em) We have the special today’s menu. For today, we offer grilled fish from regional products as main dishes. As for wine, we have house wine at a reasonable price.  
-> C) ok. Would you make sure our reservation? 
+> C) Would you recommend dishes for us? And also I’d like to order a bottle of wine with the meal. Would you recommend any wine to go with our dishes?
+> Em) We have the today’s special. For today, we offer grilled fish as our main dish. As for wine, we have house wine at a reasonable price.  
+> C) ok. Would you reserve the table for us then? 
 > Em) Yeap. You are on the list.  
 		
 ### Conclusion
-> C) Thank you for your kindness. Your kindness will make our dinner all the more special.  
+> C) Thank you for your kindness. Your kindness makes our dinner all the more special.  
 
 
 
@@ -80,13 +80,13 @@ greeting
 
 > Susan) Hello~ is this Ann?  
 > Ann) Yeah. You must be Susan.  
-> Susan) Are you ok to talk for a while?  
+> Susan) Can you talk for a bit? 
 > Ann) Sure. What’s up?  
 
 ----
 Intro
 
-> Susan) Actually, I got two free movie tickets from my boss. I wish you would go with me. It has been a long time to hang out together.  
+> Susan) Actually, I got two free movie tickets from my boss. I wish you would go with me. It has been a long time since we hung out together.  
 > Ann) OK. Sounds great!! What kind of movies do you like to watch? 
 
 ### Suggestions
@@ -94,29 +94,29 @@ Intro
 ---- 
 movie taste
 
-> Susan) As you know, I’m a big fan of Avengers thesedays. I heard that the latest series will show up from tomorrow. It would be exciting for you? What do you think about it?   
+> Susan) I’m a big fan of Avengers thesedays. I heard that the latest series will open in theaters tomorrow. It would be exciting for you? What do you think about it?   
 > Ann) Wow. I’m also looking forward to it. Do you want to go tomorrow? What time slots are available?   
 
 ---- 
 time
 
-> Susan) There are a lot of time slots for Avengers. Let’s choose around 7pm after dinner.  
-> Ann) Yeap, sounds good. Is there any close restaurant affiliated with tickets?  
+> Susan) There are a lot of time slots for Avengers. Let’s go around 7pm after dinner.  
+> Ann) Yeap, sounds good. Is there any close restaurants affiliated with tickets?  
 
 ---- 
 dinner
 
-> Susan) I’m not sure. But I have membership card for theater. It would be something related to the movie? Let’t go and figure it out.  
-> Ann) Sure. Do you know how i can get there?
+> Susan) I’m not sure. But I have a membership card for the theater. Let’t go and figure it out.  
+> Ann) Sure. Do you know how to get there?
 
 ----
 location
 
-> Susan) I’ll take my car and pick you up at your house. Just be prepared until 5pm.  
+> Susan) I’ll take my car and pick you up at your house. Just get ready by 5pm.  
 > Ann) Ok. I’m excited about it.  
 
 ### Conclusion
-> Susan) I’m also excited to spend time with you tomorrow. Let’s catch up our things.  
+> Susan) I’m also excited to spend time with you tomorrow. Let’s catch up.  
 
 
 ## Question Type : Comparison 비교하기
