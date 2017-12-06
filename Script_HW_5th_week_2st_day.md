@@ -3,16 +3,18 @@
 ## grammatic mistakes
 
 Similar **(to/with)**
-- Developing computer programs was regarded **similar to** constructing buildings. But Since the IT technology has enhanced, the software development has been considered totally **different from** the building construction.
+- Developing computer programs was regarded **similar to** constructing buildings. But Since IT technology has enhanced, the software development has been considered totally **different from** the building construction.
 
 Have an effect on + O / affect + O
-- How long you study doesn’t **have effect on** your English improvement. How to effectively study **affects** the improvement.
-- This template and strategy would efficiently **affect** to reduce your speech time. (?)
-- Even though his budget-conscious personality **hasn’t never affected** the impulsive consumption of her wife.
+- How long you study doesn’t **have an effect on** your English improvement. How to effectively study **affects** the improvement.
+- This template and strategy would efficiently ~~**affect** to~~ reduce your speech time. (?)
+- Even though his budget-conscious personality **has never affected** the impulsive consumption of her wife.
 
 As time ~~goes~~ **went** by
 - (과거에 일어나 시간이 지난 것을 묘사하는 경우 과거형으로 사용 )
 - I bought a computer when I entered a college. But **as time went by**, the computer had been worn down and then now it has been broken down. 
+- As time goes by, my love of musicals is getting bigger.
+- As time goes by, people are eating more vegitables.
 
 In the past / in the future. 
 - Even though, the AI technology was considered useless **in the past**, now it has become the new trend in the IT industry. We would face many home appliances using the technology **in the near future**. 
@@ -25,13 +27,13 @@ Visited ~~to~~ theaters.
 		
 	
 ## difficult grammar ( A/The and singluar/plural )
-- Among various **IT technologies**, **the big-data technology** was famous in **the IT industry**, but nowadays **the AI technology** has developed a reputation for its convenience.
+- Among various **IT technologies**, **~~the~~ big-data technology** was famous in **the IT industry**, but nowadays **~~the~~ AI technology** has developed a reputation for its convenience.
 
-- My friend and his wife had lead a rich life by his parent’s support. But he had not been interested in his familty. After all he became bankrupt because of **the impulsive consumption of his family**.
+- My friend and his wife had lead a rich life ~~by~~ **through** his parent’s support. But he had not been interested in his familty. After all he became bankrupt because of **the impulsive consumption of his family**.
 
-- I have a bucket list for what to do with my kid before she become adolescent. One of them is going together to **a top** of **a mountain** in my country. So I plan to climb up onto **the top** of Hanla mountain in several years.
+- I have a bucket list for what to do with my kid before she become adolescent. One of them is going together to **a top** of  **a mountain** in my country. So I plan to climb up onto **the top** of Hanla mountain in several years.
 
-- When I bought **a computer** that was famous at that time, I was excited because I was able to play **the computer games** that were listed on game charts. Meanwhile I had to buy **a laptop** that was useful for my reports. I used to use the laptop for a long time. In addition I also recall **the used laptop** that I bought from my friend. It is **the favorite one** among **computers** that I’ve used.
+- When I bought **~~a~~the computer** that was famous at that time, I was excited because I was able to play **the computer games** that were listed on game charts. Meanwhile I had to buy **~~a~~the laptop** that was useful for my reports. I used to use the laptop for a long time. In addition I also recall **the used laptop** that I bought from my friend. It is **the favorite one** among **the computers** that I’ve used.
 
 ## Have you experienced a problem while traveling? What was the problem, and how did you deal with it? 
 
