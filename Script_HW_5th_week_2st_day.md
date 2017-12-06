@@ -49,7 +49,7 @@ There are many house chores in my house. Among them, I’m responsible for recyc
 
 First of all, I collect recyclable materials in the laundary room. There are 3 recycling bins where I put each material. I divide the bins for 3 categories: paper, plastic, and the rest. By separating the bins, I can reduce my time to get recycling done.
 
-On weekends, I bring those bins to the designated area beside my apartment. There are big bags for each material. I pour each recycling bin into the respective bags. Sometimes I get my hands dirty with leaking drink from cans or remaining foods on packages while picking them up. Then, I return back home and wash my hands.
+On weekends, I bring those bins to the designated area beside my apartment. There are big bags for each material. I pour each recycling bin into its respective bags. Sometimes I get my hands dirty with leaking drink from cans or remaining foods on packages while picking them up. Then, I return back home and wash my hands.
 
 Conclusion, even though the recycling is tedious and disgusting for me, I have to recycle because if I don’t so, I would get fined by our government that has implemented strong regularations for recycling.
 
