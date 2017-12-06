@@ -53,4 +53,10 @@ To sum it up, this is basic explanation to help you to understand computer progr
 
 ## a/the exmaples
 
-
+- I visited **a beautiful restaurant** with my wife in my town.  
+- I visited **the beautiful restaurant** where I had have dinner with my wife again.
+- I stopped by a mountain route next to my aprtment on the way to **the library**. I planed to climb up with my daugher **on the top of the moutain** w.
+- I've visited my grandma's house which was located in **the country**.
+- people listening to **the radio** seemed to decrease and people **watching TV** seemed to increas.
+- If you have a change to visit **a foreign country**, you should experience **the culture**.
+- before you enter **college**, you should check **the tuition** of **the college**. ( church , college, school )
