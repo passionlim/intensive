@@ -51,5 +51,5 @@ First of all, I collect recyclable materials in the laundary room. There are 3 r
 
 On weekends, I bring those bins to the designated area beside my apartment. There are big bags for each material. I pour each recycling bin into its respective bags. Sometimes I get my hands dirty with leaking drink from cans or remaining food on packages while picking them up. Then, I return back home and wash my hands.
 
-Conclusion, even though the recycling is tedious and disgusting for me, I have to recycle because if I don’t so, I would get fined by our government that has implemented strong regularations for recycling.
+Conclusion, even though recycling is tedious and disgusting for me, I have to recycle because if I don’t so, I would get fined by our government that has implemented strong regularations for recycling.
 
