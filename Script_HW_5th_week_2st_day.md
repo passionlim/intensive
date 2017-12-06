@@ -39,9 +39,9 @@ related topics : Travel, Park, Concert, Movie, Gathering, Home Improvement
 
 ( Translation from Korean to English )
 
-I tried to pull myself together, but I was embarrassed in my mind. To solve the problem, I found the location of the Korea embassy and I went there to explain my situation. They requested my ID on which my photo was attached and documents which was able to identify myself, such as my flight ticket. I gave them everything they wanted and fortunately they promised to issue the replacement passport before I got on the plane.
+I tried to ~~pull myself together~~ **keep calm**, but I was ~~embarrassed in my mind~~ **pacnicking inside**. To solve the problem, I found **out** ~~the location of~~ **where** the Korea embassy **was** and I went there to explain my situation. They ~~requested my ID on which my photo was attached and documents which was able to identify myself, such as my flight ticket~~ **asked me to show identification documents such as my photo ID and my flight ticket**. I gave them ~~everything~~ what they wanted and fortunately they promised to issue ~~the~~ **a** replacement passport before ~~I got on the plane~~ my flight.
 
-I learned from this experience that I should be careful. And now when I go on a trip, I avoid crowded places and double-check my belongings. 
+I learned from this experience that I should be careful. And ~~now~~ when I go on a trip **now** , I avoid crowded places and double-check my belongings. 
 
 ## describe the process of recycling 
 
