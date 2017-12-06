@@ -22,20 +22,19 @@ I learned from this experience that we ~~don’t~~ **shouldn’t** bring compute
 - I learned from this experience that we should be careful when carrying computers while it is raining.
 
 I want things to be clear.
-- Charles likes something to be clear such as science and math.
+- Charles likes **something to be clear** such as science and math.
 
 It had an influence(impact) on me
-- Attending the club had an impact on my attitude for learning.
+- Attending the club **had an impact on** my attitude for learning.
 
 I had a change of mind.
-- One day before our trip, she had change of mind for traveling.
+- One day before our trip, she **had a change of mind** for traveling.
 
 You reap what you sow
-- I finally had scholarships 2 times. I learned from this experience that you reap what you sow.
+- I finally had scholarships 2 times. I learned from this experience that **you reap what you sow**.
 
 That’s hard to imagine
-- It’s hard to imagine that they broke up.
-
+- **It’s hard to imagine that** they broke up.
 
 ## introduction for consist of  computer programs
 - Intro : 2 parts / data, logics
@@ -49,7 +48,7 @@ Firstly, you have to prepare data for your website.  As a first step, you should
 
 Secondly, every logic handles input data and makes output data. Let’s talk about blog’s basic functions like reading and writing. To show readers a post, the reading logic loads images and texts from the storage and compose one document in a HTML format using the loaded data. So your web browser can show the web page which is the output of the logic. As for writing function, the writing logic reads blog post submission as its input and then save them into the storage as it output.
 
-To sum it up, this is a basic tools to help you to understand computer programs.  As our society has become interested in computer programing, you’d better to learn how computer programs works in detail.
+To sum it up, this is basic explanation to help you to understand computer programs. As our society has become interested in computer programing, you’d better to learn how computer programs works in detail.
 
 
 ## a/the exmaples
