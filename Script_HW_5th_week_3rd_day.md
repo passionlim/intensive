@@ -42,13 +42,13 @@ That’s hard to imagine
 - Body2 : logic for functions of blog
 - Conc :
 
-When it comes to computer programs, we can divide them into 2 parts: data, logics. As for data, we can easily think of contents in computer programs such as text, photo, icon and videos. As for logics, we can explain them as a group of how to handle data. Let’s assume that you build a blog web site. 
+When it comes to computer programs, we can divide them into 2 parts: data, logics. As for data, we can easily think of contents in computer programs such as text, photo, icon and videos. As for logics, we can explain them as a group of procedures which handle data. Let’s assume that you build a blog web site. 
 
-Firstly, you have to prepare data for your website.  As a first step, you should prepare small unit images such as logos, banners and background images. As a next step, you can make a structure for the design of the web site using a markup language called HTML. It’s as if writing a MS word document with title, head and body. As the last step, you have to prepare texts and photos related to your post. Those contents are stored in the storage called a database and a file.
+Firstly, you have to prepare data for your website. As the first step, you should prepare small unit images such as logos, banners and background images. As the next step, you can make a structure for the design of the web site using a markup language called HTML. It’s as if writing a MS word document with title, head and body. As the last step, you have to prepare texts and photos related to your post. Those contents are stored in the storages such as a database and a file.
 
-Secondly, every logic handles input data and makes output data. Let’s talk about blog’s basic functions like reading and writing. To show readers a post, the reading logic loads images and texts from the storage and compose one document in a HTML format using the loaded data. So your web browser can show the web page which is the output of the logic. As for writing function, the writing logic reads blog post submission as its input and then save them into the storage as it output.
+Secondly, every logic handles input data and makes output data. Let’s talk about blog’s basic functions like reading and writing. To show readers a post, the reading logic loads images and texts from the storages and compose one document in a HTML format using the loaded data. So your web browser can show the web page which is the output of the logic. As for writing function, the writing logic reads blog post submission as its input and then save them into the storage as its output.
 
-To sum it up, this is basic explanation to help you to understand computer programs. As our society has become interested in computer programing, you’d better to learn how computer programs works in detail.
+To sum it up, this is a basic explanation to help you understand computer programs. As our society has become interested in computer programing, you’d better to learn how computer programs works in detail.
 
 
 ## a/the exmaples
