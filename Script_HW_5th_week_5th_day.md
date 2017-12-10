@@ -1,4 +1,57 @@
 ## Grammar mistakes
+On a cozy beach chair
+- When I go to the waterpark last week, I can feel comfortable sitting on a cozy beach chair.
+
+The man in the middle
+- We were driving in the traffic jam on our way home. There is a car in front of us where 3 people was sitting on the back seats. 
+    - I saw the man in the middle who were bald.
+    - The man in the middle were bald.
+    - A man among them were bald.
+
+Lying on one’s front
+- I lied on my front to take a massage on my back.
+
+The man is having a hard time enjoying his vacation.
+- I had a hard time enjoying my private life during the project last year.
+
+Prepare / be prepared
+- People are preparing survival items because the country would wage war. But the government has been prepared for the war.
+
+Leave sth for sth
+-  I left my hometown for a city to succeed as a business man. 
+- “I’m leaving my office for my house. Don’t give more work.”
+
+I feel an impulse( desire / inkling ) to + V
+	- When he forced me to work on weekends, I felt a impulse to run away from the project.
+
+[ take it out on + sb ] ~ 화풀이를 하다.
+- My boss went to his boss to get a permission for a new business. But he failed to make it. Then she took it out on her colleagues.
+
+[ take it away ] you are in charge
+- It is hard to take it away from scratch without an instructor.
+
+They have been friends for ages
+- We’ve never hung out for ages.
+
+While A+ing , B
+- While drinking coffee, my dad read the newspaper.
+- My dad read the news paper while drinking coffee.
+- My dad read the news paper, drinking coffee. 
+
+The one man
+- one of them
+- Some of them
+- One of students
+- There are many students in the cafeteria in the building. One of them suddenly shout out “I love you”. 
+
+Any + plural noun ( 의문, 부정)
+- I cannot think of any ideas for your question.
+- How do you prepare a vacation without any plans?
+- How do you prepare a vacation without a plan?
+
+( Memories, plans, ideas ) comes into one’s mind.
+- His old memories came into his mind. 
+- Vicious old memory during the project came into my mind.
 
 
 
