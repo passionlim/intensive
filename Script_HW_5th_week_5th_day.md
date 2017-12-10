@@ -126,7 +126,7 @@ Q1. I want to make sure what the differences of the phrases "If / Only If" are. 
 
 Q2. What verbs could be nartual for the noun "atsmosphere" except for absorbing and feeling in our 6 sences?
 
-Q3. When we u
+Q3. 
 
 Q4.
 
