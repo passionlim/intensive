@@ -150,4 +150,4 @@ Since the second week, despite my effort, I became totally exhausted after study
 
 Fortunately, I got some advice from my classmates and my instructor for the concern about the improvement. Regarding the advice, I should simplify the expression and the flow in the essay according to my uncovered ability. Then I assumed myself to become an elemetray school student. It began helping me to advance a bit. Since around 4th week, I had noticed my improvement in my essays. They became more pursuasive and well-organized compared to my previous ones.
 
-And now just a week is left to the end. I have archived improvement a bit for giving a speech and writing essays. Furthuremore I can again feel as confident as I did before this retreat. Finally I can come up to the scratch for my English study journey. It goes without saying that hard works pays off. 
+And now just a week is left to the end. I have archived improvement a bit for giving a speech and writing essays. Furthermore I can again feel as confident as I did before this retreat. Finally I can come up to the scratch for my English study journey. It goes without saying that hard works pays off. 
