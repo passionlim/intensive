@@ -4,31 +4,31 @@ On a cozy beach chair
 
 The man in the middle
 - We were driving in the traffic jam on our way home. There is a car in front of us where 3 people was sitting on the back seats. 
-    - I saw the man in the middle who were bald.
-    - The man in the middle were bald.
-    - A man among them were bald.
+- I saw the man in the middle who were bald.
+- The man in the middle were bald.
+- A man among them were bald.
 
 Lying on one’s front
 - I lied on my front to take a massage on my back.
 
-The man is having a hard time enjoying his vacation.
-- I had a hard time enjoying my private life during the project last year.
+The man is **having a hard time** enjoying his vacation.
+- I had **a hard time** enjoying my private life during the project last year.
 
 Prepare / be prepared
-- People are preparing survival items because the country would wage war. But the government has been prepared for the war.
+- People are **preparing** *survival items* because the country would wage war. And the government has **been prepared** for the worst.
 
-Leave sth for sth
+Leave A for B : A를 떠나 B로 가다
 -  I left my hometown for a city to succeed as a business man. 
-- “I’m leaving my office for my house. Don’t give more work.”
+- “I’m leaving my office for my house. Don’t give me more work.”
 
 I feel an impulse( desire / inkling ) to + V
-	- When he forced me to work on weekends, I felt a impulse to run away from the project.
+- When he forced me to work on weekends, I felt a impulse to run away from the company.
 
 [ take it out on + sb ] ~ 화풀이를 하다.
-- My boss went to his boss to get a permission for a new business. But he failed to make it. Then she took it out on her colleagues.
+- My boss went to his boss to get a permission for a new business. But he failed to make it. Then he took it out on his colleagues.
 
 [ take it away ] you are in charge
-- It is hard to take it away from scratch without an instructor.
+- It is hard to take it away from scratch without an instructor's help.
 
 They have been friends for ages
 - We’ve never hung out for ages.
@@ -36,7 +36,7 @@ They have been friends for ages
 While A+ing , B
 - While drinking coffee, my dad read the newspaper.
 - My dad read the news paper while drinking coffee.
-- My dad read the news paper, drinking coffee. 
+- My dad read the news paper in drinking coffee. 
 
 The one man
 - one of them
@@ -53,6 +53,15 @@ Any + plural noun ( 의문, 부정)
 - His old memories came into his mind. 
 - Vicious old memory during the project came into my mind.
 
+have huge expectations for + (noun)
+- I had huge expectations for my salary increse this year, but the salary was not enough to satisfy me.
+
+ask (sb) out [on a date]
+- I tried to ask her out but I failed.
+
+has had / have had
+- I haven't had any chances to get a job.
+- I have had a profound effort on archiving my English improvement.
 
 
 ## Summer vacation on a beach ( revised)
@@ -74,7 +83,6 @@ In conclusion, like this story, people have their own ways to spend their vacati
 ### comments for mistakes 
 
 1. It was a beautiful day on **the** beach where people **wound** down and felt a breeze from the ocean.
-
 - I should use "the" in front of "beach" instead of "a" because I'm describing the specific beach. 
 - I misunderstood a past tense of "wind". It should be "wound". and I should be also cautious to pronounce it because there is the same spelled word whose pronounse is different.
 
@@ -84,7 +92,7 @@ In conclusion, like this story, people have their own ways to spend their vacati
 - this sentense is equivalent to "**If** he can be comfortable <P>, everything is ready. <Q>"
 - According to propositional logic, this sentence is equivalent to "If everything is not ready, he cannot be comfortable"
 
-3. such as a parasol, a beach chair and **a paif of** sunglasses.
+3. such as a parasol, a beach chair and **a pair of** sunglasses.
 - Forms of words following "such as" should match to each other. All words besides "sunglasses" are singular. So I have to insert "a pair of" in front of it.
 
 4. He **set** the parsol.
@@ -109,16 +117,16 @@ In conclusion, like this story, people have their own ways to spend their vacati
 - I misunderstood a past tence of the verb "sit". So I have to change "sit" to "sat". 
 
 10. **To talk** to someone is the best way **for Jack to relieve the stress.**
-- The entire sentence was not nartral to explain Jack's stress reliver.
+- The entire sentence was not natural to explain Jack's stress reliver.
 - And also I changed "talking" to "To talk" in the subject of the sentence to make it more natural.
-- Besides "As for" phrase, I put some phrases in the end of the sentence to describe "the best way."
+- Deleting "As for" phrase, I put some phrases in the end of the sentence to describe the phrase "the best way."
 
 ## Questions about my mistakes
-Q1.
+Q1. I want to make sure what the differences of the phrases "If / Only If" are. Is it possible to exchange "Q only if P" for "If P, then Q"
 
-Q2.
+Q2. What verbs could be nartual for the noun "atsmosphere" except for absorbing and feeling in our 6 sences?
 
-Q3.
+Q3. When we u
 
 Q4.
 
@@ -142,9 +150,4 @@ Since the second week, despite my effort, I became totally exhausted after study
 
 Fortunately, I got some advice from my classmates and my instructor for the concern about the improvement. Regarding the advice, I should simplify the expression and the flow in the essay according to my uncovered ability. Then I assumed myself to become an elemetray school student. It began helping me to advance a bit. Since around 4th week, I had noticed my improvement in my essays. They became more pursuasive and well-organized compared to my previous ones.
 
-And now just a week is left to the end. I have archived improvement a bit for giving a speech and writing essays. Furthuremore I can again feel as confident as I did before this retreat. Finally I'm making it a point to come up to the scratch for my English study journey. It goes without saying that hard works pays off. I appreciate my encouraging classmates, my enthusiatic instructor and all staffs to support us. 
-
-
-
-
-
+And now just a week is left to the end. I have archived improvement a bit for giving a speech and writing essays. Furthuremore I can again feel as confident as I did before this retreat. Finally I can come up to the scratch for my English study journey. It goes without saying that hard works pays off. 
