@@ -66,7 +66,7 @@ I’m dreaming of a day when I am able to to speak English fluently.
 I still have a long way to go to enhance my English skills.
 
 ----
-Why do people go to the park? What activities do they do in the park. 
+## Why do people go to the park? What activities do they do in the park. 
 
 Along with increasing of Korean economy, our neighborhoods have become more convenient for leisure activities, including parks which have various and well-maintained facilities.
 
