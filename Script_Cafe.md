@@ -2,13 +2,13 @@
 
 ## Where is your favorite cafe? what drinks do you like to drink there? why do you like to go there?
 
-When it comes to my favorite cafe, there are two kind of cafes where I usually go. The one is located near my house, and the other is located in my office. Both are franchise cafes which are run by CJ. Let me introduce why I go there.
+When it comes to my favorite cafe, there are two kind of cafes where I usually go. The one is located near my house, and the other is located in my office. Both are franchise cafes run by CJ. Let me introduce why I go there.
 
-First of all, I usually go there because I can enjoy beverages and desserts at a discounted price. As a employee working for CJ, I can get a discount up to 40% for all kinds of dishes. The price is very competitive compared to the one at the other cafes. 
+First of all, I usually go there because I can enjoy beverages and desserts at a discounted price. As a employee working for CJ, I can get a discount up to 40% for all kinds of dishes. The price is very competitive compared to the one else where. 
 
-Second of all, I usuallay order a cup of black coffe because the coffee flavor matches my taste. and I sometimes purchase  sweet cakes whose tastes are hamonious with coffee. When I'm fed up with coffee, I usually drink a cup of tea called cream caramel.
+Second of all, I usuallay order a cup of black coffe because the coffee flavor matches my taste. and I sometimes purchase  sweet cakes whose tastes are hamonious with coffee. Moreover when I'm fed up with coffee, I usually drink a cup of tea called cream caramel.
 
-Third of all, Those cafes are very accessable from where I live and where I work. I don't like traveling for to enjoy coffee and desert.  
+Third of all, those cafes are very accessable from where I live and where I work. I don't like traveling for cafes to enjoy coffee and desert.  
 
 To sum it up, I'm fortunate to have such economical and fancy cafes near my work and home. 
 
