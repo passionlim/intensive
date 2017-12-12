@@ -1,6 +1,6 @@
-[Topic] Cafe
+# [Topic] Cafe
 
-#1 Where is your favorite cafe? what drinks do you like to drink there? why do you like to go there?
+## Where is your favorite cafe? what drinks do you like to drink there? why do you like to go there?
 
 When it comes to my favorite cafe, there are two kind of cafes where I usually go. The one is located near my house, and the other is located in my office. Both are franchise cafes which are run by CJ. Let me introduce why I go there.
 
@@ -12,7 +12,7 @@ Third of all, Those cafes are very accessable from where I live and where I work
 
 To sum it up, I'm fortunate to have such economical and fancy cafe near my work and home. 
 
-#2
+## 
 I usually go to cafes with my colleagues after lunch. We work hard in the office in the morning. After lunch, we need to be relaxed and to communicate to each other. I think cafes are the right place.
 
 We are human beings, different from machines. Each of us has an interest according to our own situations. As we have a time together, they can know the others’ interest very well. Each of members are familiar with the others through the informal meeting. I like this meeting because it makes our team work more harmoniously.
@@ -21,7 +21,7 @@ Sometimes brilliant ideas come out of the meeting at cafes. Someone mention abou
 
 In conclusion, meeting at a cafe is often useful to resolve the problem in our work. 
 
-#3
+## 
 Thesedays there are a lot of cafes in cities, even you can easily find cafes at a rural area. Many people have gotten into coffee in South Korea. I read on the news that South Korea is one of the biggest market for coffee.
 
 Looking back 20 years, coffee was only for the people who really enjoyed or who needed a place to meet to talk. If you had a blind date at that time, it was a general place where you would make an appointment with a partner.
