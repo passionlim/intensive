@@ -8,7 +8,7 @@ First of all, I usually go there because I can enjoy beverages and desserts at a
 
 Second of all, I usuallay order a cup of black coffe because the coffee flavor matches my taste. and I sometimes purchase  sweet cakes whose tastes are hamonious with coffee. When I'm fed up with coffee, I usually drink a cup of tea called cream caramel.
 
-Third of all, Those cafes are very accessable from where I live and where I work. Even though I like to stay at cafes for a while, I don't like to spend much time for moving to cafes. 
+Third of all, Those cafes are very accessable from where I live and where I work. I don't like traveling for to enjoy coffee and desert.  
 
 To sum it up, I'm fortunate to have such economical and fancy cafes near my work and home. 
 
