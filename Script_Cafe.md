@@ -1,15 +1,16 @@
 [Topic] Cafe
 
-#1
-Favorite Cafe 
+#1 Where is your favorite cafe? what drinks do you like to drink there? why do you like to go there?
 
-My Favorite Cafe... Oh. Let me introduce A twosome place that is a franchise in South Korea.
+When it comes to my favorite cafe, there are two kind of cafes where I usually go. The one is located near my house, and the other is located in my office. Both are franchise cafes which are run by CJ. Let me introduce why I go there.
 
-First, A Twosome place is run by CJ. As I introduced myself, I’m working for CJ, so I can get various kind of benefits from the company. All employees working for CJ can get a 40% discount for everything on the menu. Plus I can get an additional 10% off from the cafe in my office. I can buy a black coffee at about a half price cheaper than the other cafe. 
+First of all, I usually go there because I can enjoy beverages and desserts at a discounted price. As a employee working CJ, I can get a discount up to 40% for all kinds of dishes. The price is very competitive compared to the one at the other cafes. 
 
-In the taste of coffee, I really like to drink black coffee, especially strong ones. The coffee in a Twosome place matches my taste. The taste is enough strong to be awaken in the morning. When I come to the office in the morning, I often go there before starting to work.
+Second of all, I usuallay order a cup of black coffe because the coffee flavor matches my taste. and I sometimes purchase  sweet cakes whose tastes are hamonious with coffee. When I'm fed up with coffee, I usually drink a cup of tea called cream caramel.
 
-In conclusion, a big discount and satisfying taste lead me to A twosome place cafe when i want coffee.
+Third of all, Those cafes are very accessable from where I live and where I work. Even though I like to stay at cafes for a while, I don't like to spend much time for moving to cafes. 
+
+To sum it up, I'm fortunate to have such economical and fancy cafe near my work and home. 
 
 #2
 I usually go to cafes with my colleagues after lunch. We work hard in the office in the morning. After lunch, we need to be relaxed and to communicate to each other. I think cafes are the right place.
