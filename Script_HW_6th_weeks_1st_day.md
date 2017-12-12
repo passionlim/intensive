@@ -68,13 +68,13 @@ I still have a long way to go to enhance my English skills.
 ----
 ## Why do people go to the park? What activities do they do in the park. 
 
-Along with increasing of Korean economy, our neighborhoods have become more convenient for leisure activities, including parks which have various and well-maintained facilities.
+Along with the advancement of Korean economy, our neighborhoods have become more suitable for leisure activities, including parks which have various and well-maintained facilities.
 
-First of all, parks are relevant places for people to start jogging with a light heart because regional governments have built the designated trails for jogging over the country. Even though jogging is a seemingly dangerous activity for the elderly people who have fragile joints, the trails are composed of so safe and comfortable materials to prevent people from injuring their joints. Therefore, regardless of people’s ages, many people prefer to go jogging at parks.
+First of all, parks are suitable places to start jogging with a light heart because regional governments have built the designated trails for jogging over the country. Even though jogging is a seemingly dangerous activity for the elderly who have fragile joints, the trails are composed of so safe and comfortable materials to prevent people from damaging their joints. Therefore, regardless of people’s ages, many people prefer to go jogging at parks.
 
-Second of all, since bicycle lanes have been built on riverside parks over the country, the popularity for cycling has dramatically increased. On weekends, we can easily observe cyclists who glow with delight when visiting the riverside parks. Along with the increase of its popularity, bicycle shops has opened up a lot and people have organized online communities regarding cycling to enjoy it together. 
+Second of all, since bicycle lanes have been built on riverside parks over the country, the popularity for cycling has dramatically increased. On weekends, we can easily observe cyclists who glow with delight when visiting the riverside parks. Along with the increase of its popularity, bicycle shops have opened up a lot and people have created online communities to enjoy cycling together. 
 
-To sum it up, parks int our neighborhoods become more important for our lives. I wish that our society continues to invest in these convenient parks for our healthy life.
+To sum it up, parks in our neighborhoods become more important for our lives. I wish that our society continues to invest in these convenient parks in order to enhance our healthy lives.
 
 ----
 Describing places.
