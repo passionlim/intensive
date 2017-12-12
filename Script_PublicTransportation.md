@@ -7,11 +7,11 @@
 
 There are various transportation systems in Seoul. For example, there are bus systems throughout the country, and several cities have great subway systems. Among them, I prefer taking a bus when i commute or when i go to downtown.
 
-First of all, when I moved into my house located in a rural city, I found a bus that passes by my office. It is the fastest transportation to get there. It was uncomfortable because it shook a lot. But I don’t like to waste my time in the morning to wait other transportations. From that point on, I have frequently taken the bus when I commute.
+First of all, I like to take a bus to my office to save my valueable morning time. When I moved into my house located in a rural city, I found a bus that passes by my office without transfering. Even though it was uncomfortable because it shook a lot, It is the fastest transportation to get there. From that point on, I have frequently taken the bus when I commute.
 
-Second of all, Korean bus system cover a larger geographical area outside of Seoul. There are lots of bus routes between cities and intercity buses to run frequently. It is very convenient and comfortable for me to go to downtown.
+Second of all, Korean bus system cover a larger geographical area outside of Seoul. There are lots of bus routes between cities and there are intercity buses to run frequently. It is very convenient and comfortable for me to go to downtown.
 
-In conclusion, like my experience, buses are still a convenient transportation for people living in rural area.
+In conclusion, Even though the subway system has developed and has spreaded out the cities, like my experience, buses are still a convenient transportation for people living in rural area.
 
 ## How has the public transportation system changed over time? What are the differences between the types of transportation you used as a child and the types you use today? Provide as many details as possible.
 
