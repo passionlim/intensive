@@ -72,9 +72,9 @@ Along with increasing of Korean economy, our neighborhoods have become more conv
 
 First of all, parks are relevant places for people to start jogging with a light heart because regional governments have built the designated trails for jogging over the country. Even though jogging is a seemingly dangerous activity for the elderly people who have fragile joints, the trails are composed of so safe and comfortable materials to prevent people from injuring their joints. Therefore, regardless of people’s ages, many people prefer to go jogging at parks.
 
-Second of all, since the bicycle lanes have been built on riverside parks over the country, the popularity for cycling has dramatically increased. On weekends, we can easily observe cyclers who glow with delight in visiting riverside parks. Along with its popularity, bicycle shops has opened up a lot and people have organized online communities regarding cycling to enjoy it together. 
+Second of all, since bicycle lanes have been built on riverside parks over the country, the popularity for cycling has dramatically increased. On weekends, we can easily observe cyclists who glow with delight when visiting the riverside parks. Along with the increase of its popularity, bicycle shops has opened up a lot and people have organized online communities regarding cycling to enjoy it together. 
 
-To sum it up, parks near people’s neighborhoods become more important for their lives. I wish that our society continues to invest in these convenient parks for further healthy life.
+To sum it up, parks int our neighborhoods become more important for our lives. I wish that our society continues to invest in these convenient parks for our healthy life.
 
 ----
 Describing places.
