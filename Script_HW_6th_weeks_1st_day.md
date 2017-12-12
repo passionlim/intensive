@@ -74,7 +74,7 @@ First of all, parks are suitable places to start jogging with a light heart beca
 
 Second of all, since bicycle lanes have been built on riverside parks over the country, the popularity for cycling has dramatically increased. On weekends, we can easily observe cyclists who glow with delight when visiting the riverside parks. Along with the increase of its popularity, bicycle shops have opened up a lot and people have created online communities to enjoy cycling together. 
 
-To sum it up, parks in our neighborhoods become more important for our lives. I wish that our society continues to invest in these convenient parks in order to enhance our healthy lives.
+To sum it up, parks in our neighborhoods become more important for our lives. I wish that our society continues to invest in these convenient parks in order to enhance our lives.
 
 ----
 Describing places.
