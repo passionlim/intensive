@@ -1,12 +1,12 @@
 ### You indicated in the survey that you like listening to music. Can you tell me what kind of music you like? And who is your favorite musician? Why do you like him or her?
 
-I like to listen to various kinds of music. Depending on my feelings and moods, I listen to different genres of music. But I prefer to listen to ballad music more frequently among them. Lee Seung Hwan is one of the most famous ballad singers in Korea. Let me intorduce him.
+I like to listen to various kinds of music. Depending on my feeling and mood, I listen to different genres of music. But I prefer to listen to ballad music more frequently among them. Lee Seung Hwan is one of the most famous ballad singers in Korea. Let me intorduce him.
 
 I'm a big fan of Lee Seung Hwan. He is a historic singer in South Korea. He made his debut in the late 1980s and he's still active with his music. He has a lot of fans who have spent their time along his music history. Including myself, they have spent their youth with his songs. Listening to his songs makes us reminisce our youth.
 
 In addition, He is still a creative and energetic artist. He wrote hundreds of songs and produced dozens of albums. But he still has held serveral concerts anually and also has released his albums every year. Most fans crave attending his concerts. Thererfore, tickets for his concerts have always been sold out in a minute.
 
-After I love his songs and his passionate performances, I've become to admire him. I'm pretty sure that I'll listen to his music 10 year later.
+Ever since I experience his songs and his passionate performances, I've become admiring him. I'm pretty sure that I'll listen to his music 10 year later.
 
 ### How did you first get interested in music? What kind of music did you listen to when you were young? How was that music different from the music you listen to today? How has your interest in music changed over the years?
 
