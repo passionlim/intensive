@@ -4,7 +4,7 @@
 
 When it comes to my favorite cafe, there are two kind of cafes where I usually go. The one is located near my house, and the other is located in my office. Both are franchise cafes run by CJ. Let me introduce why I go there.
 
-First of all, I usually go there because I can enjoy beverages and desserts at a discounted price. As a employee working for CJ, I can get a discount up to 40% for all kinds of dishes. The price is very competitive compared to the one else where. 
+First of all, I usually go there because I can enjoy beverages and desserts at a discounted price. As a employee working for CJ, I can get a discount up to 40% for all kinds of foods. The price is very competitive compared to the one else where. 
 
 Second of all, I usuallay order a cup of black coffe because the coffee flavor matches my taste. and I sometimes purchase  sweet cakes whose tastes are hamonious with coffee. Moreover when I'm fed up with coffee, I usually drink a cup of tea called cream caramel.
 
