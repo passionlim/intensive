@@ -14,16 +14,16 @@ That’s all about pub near my office.
 
 I’m not quite interested in drinking beer at bars these days, but I sometimes go there to drink beer and to have dinner with colleagues after work.
 
-Favorite place to go with them is the closest bar nearby our office. They sell mainly fried chicken and sweet source fried chicken. Tastes of chicken is not special but it tastes like the chicken we had in a childhood. We have a time talking about what we’re doing or what troubles we are facing at the office. We have to finish our drinks up before the subway gets cut off.
+My favorite place is the closest bar from our office. They sell mainly fried chicken and sweet source fried chicken. Taste of chicken is not special but it's like the taste of chickens we had in our childhood. We spend time by talking about what we’re doing or what troubles we are facing at the office. We have to finish our drinks up before the subway gets cut off.
 
 That’s all about what i do at bars nowadays.  By speding a time at bars, somebody can have hangover, but people at bars stay closer to each other. It can be lubricant among people working together.
 
 #3 
-I have no idea about an event at bars, but I have e a memorable event what led me to bars.
+The most memorable event I've experience at bars happend serveral month ago. I usually work from 10 to 7. I didn't expect to go to bars before some problem occured in the systems of my company. 
 
-I work from 10 to 7. It was a usual day before the problem came up. We faced the trouble from 3 to 10. We had to take care of bad troubles as a expert before famous TV show. We could finish that up late night at 10pm. Nobody had dinner because of fixing problems. 
+It was a usual day before the problem came up. We faced the trouble from 3 to 10. we are totally exhasuted when we complete to solve the prolbemns. It was late at night. we need kind of stress reliver and food before finishing our day. So we headed to the bar together. 
 
- We were also exhausted at work, but needed something for our mental recovery. We decided to go to bars to have dinner or snacks with beer. We could get relaxed and soften our tensions down. We cheered up our effort what we did. We were all proud of ourselves. 
+We were also exhausted at work, but needed something for our mental recovery. We decided to go to bars to have dinner or snacks with beer. We could get relaxed and soften our tensions down. We cheered up our effort what we did. We were all proud of ourselves. 
 
 After that, we can be more confident at work, and spending a time at bars at that time help us be hard as one team.
 
